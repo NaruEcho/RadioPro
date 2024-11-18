@@ -1,0 +1,114 @@
+name: ProtonVPN Test
+
+on:
+  workflow_dispatch:
+
+jobs:
+  proton-vpn-test:
+    runs-on: ubuntu-latest
+    
+    env: 
+      PROTONVPN_OPENVPN_USERNAME: ${{ secrets.PROTONVPN_OPENVPN_USERNAME }}
+      PROTONVPN_OPENVPN_PASSWORD: ${{ secrets.PROTONVPN_OPENVPN_PASSWORD }}
+    
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Setup faketty
+        uses: Yuri6037/Action-FakeTTY@v1.1
+
+      - name: Set up Proton VPN
+        run: mkdir -p binary && wget -P binary https://repo.protonvpn.com/debian/dists/stable/main/binary-all/protonvpn-stable-release_1.0.4_all.deb
+
+      - name: Check repo package
+        run: echo "62a9d849835de8a5664cf95329458bf1966780b15cec420bf707b5f7278b9027  binary/protonvpn-stable-release_1.0.4_all.deb" | sha256sum --check -
+
+      - name: Install Proton VPN
+        run: |
+          sudo dpkg -i binary/protonvpn-stable-release_1.0.4_all.deb
+          sudo apt update && sudo apt upgrade
+
+      - name: Install tools
+        run: |
+          sudo apt install -y openvpn dialog expect python3-pip python3-setuptools
+          sudo apt install -y proton-vpn-gnome-desktop
+          git clone https://github.com/ProtonVPN/linux-cli-community
+          sudo pip3 install -e linux-cli-community
+          pip3 install -U pytest-pretty docopt requests pythondialog jinja2
+
+      - name: ProtonVPN Login
+        run: |
+          faketty bash -c '
+          stty cols 120 rows 40
+          export COLUMNS=$(tput cols) LINES=$(tput lines)
+          expect <<EOF
+          set timeout 30
+          spawn sudo protonvpn init
+          expect "Enter your ProtonVPN OpenVPN username:"
+          send "$env(PROTONVPN_OPENVPN_USERNAME)\r"
+          puts "\nPass username"
+          expect "Enter your ProtonVPN OpenVPN password:"
+          send "$env(PROTONVPN_OPENVPN_PASSWORD)\r"
+          puts "\nPass password"
+          expect "Confirm your ProtonVPN OpenVPN password:"
+          send "$env(PROTONVPN_OPENVPN_PASSWORD)\r"
+          puts "\nPass confirm"
+          expect "Your plan:"
+          send "1\r"
+          puts "\nPass check plan"
+          expect "Your choice:"
+          send "1\r"
+          puts "\nPass check choice"
+          expect "Is this information correct? \\[Y/n\\]:"
+          send "Y\r"
+          puts "\nPass check information"
+          expect eof
+          EOF
+          '
+
+      - name: Check ProtonVPN
+        run: |
+          protonvpn --version
+          protonvpn status
+          protonvpn --help
+
+      - name: Connect to ProtonVPN
+        run: sudo protonvpn c --cc JP
+
+      - name: Check the country and security
+        run: |
+          # Check IP address and country
+          IP=$(curl -s http://ifconfig.me)
+          echo "IP Address: $IP"
+          COUNTRY=$(curl -s https://ipinfo.io/${IP}/country)
+          echo "Country Code: $COUNTRY"
+          # Check for DNS leaks using a third-party service
+          echo "Checking DNS leak..."
+          DNS_LEAK_RESULT=$(curl -s https://dnsleaktest.com/results.json)
+          echo "DNS Leak Test Result: $DNS_LEAK_RESULT"
+          # Extract DNS servers from the test results
+          DNS_SERVERS=$(echo $DNS_LEAK_RESULT | jq '.dns_servers | .[] | .ip')
+          echo "DNS Servers: $DNS_SERVERS"
+          # Check if IPv6 is enabled
+          IPV6_ENABLED=$(sysctl net.ipv6.conf.all.disable_ipv6 | awk '{print $3}')
+          if [ "$IPV6_ENABLED" -eq 0 ]; then
+            echo "IPv6 is enIPV6_ADDRESS=$(curl -s -6 http://ifconfig.me)abled, checking for IPv6 address..."
+            IPV6_ADDRESS=$(curl -s -6 http://ifconfig.me)
+            echo "IPv6 Address: $IPV6_ADDRESS"
+          else
+            echo "IPv6 is disabled."
+          fi
+          # Check for WebRTC leaks
+          echo "Checking WebRTC leak..."
+          WEBRTC_LEAK_RESULT=$(curl -s https://browserleaks.com/webrtc)
+          if echo "$WEBRTC_LEAK_RESULT" | grep -q "$IP"; then
+            echo "WebRTC leak detected!"
+          else
+            echo "No WebRTC leak detected."
+          fi
+          # Final security summary
+          echo "Security check completed."
+
+      - name: Disconnect ProtonVPN
+        run: sudo protonvpn disconnect
