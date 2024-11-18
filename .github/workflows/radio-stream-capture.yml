@@ -1,0 +1,104 @@
+name: Radio Stream Capture
+
+on:
+  schedule:
+    - cron: '0 3 * * 1-5'  # UTCで平日の午前3時（JSTで正午）
+  workflow_dispatch:    # 手動トリガーを有効にする設定
+
+jobs:
+  radio-stream-capture:
+    runs-on: ubuntu-latest
+    
+    env:
+      WG_CONF: ${{ secrets.WG_VPN_CONF }}
+    
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          architecture: 'x64'
+
+      - name: sound-ci-setup
+        uses: LABSN/sound-ci-helpers@v1
+
+      - name: Upgrade pip and install dependencies
+        run: |
+            python -m pip install --upgrade pip
+            pip install -r scripts/requirements.txt
+
+      - name: Install library
+        run: |
+            set -e
+            sudo apt update
+            sudo apt install -y wireguard jq ffmpeg
+
+      - name: Create WireGuard config file
+        run: |
+            if [ -z "$WG_CONF" ]; then
+                echo "WG_CONF environment variable is not set"
+                exit 1
+            fi
+            echo "$WG_CONF" | sudo tee /etc/wireguard/wg0.conf > /dev/null
+            sudo ln -s /usr/bin/resolvectl /usr/local/bin/resolvconf
+            sudo chmod 600 /etc/wireguard/wg0.conf
+
+      - name: Start WireGuard VPN
+        run: |
+            sudo wg-quick up wg0
+            sleep 60
+
+      - name: Verify VPN Connection
+        run: |
+            sudo wg | grep -v 'public key' | grep -v 'private key'
+            sleep 60
+
+      - name: Check IP and Security
+        run: |
+            chmod +x scripts/get_info.sh
+            scripts/get_info.sh
+        continue-on-error: true
+
+      - name: Save info JSON
+        run: |
+            python scripts/setup_and_get_info.py
+            sleep 40
+
+      - name: Convert m3u8 to mp3
+        run: |
+            if [ ! -f "scripts/temp.txt" ]; then
+                echo "ファイルが存在しません: scripts/temp.txt"
+                exit 1
+            elif [ ! -s "scripts/temp.txt" ]; then
+                echo "ファイルは存在しますが、空です: scripts/temp.txt"
+                exit 1
+            fi
+            FILE="scripts/temp.txt"
+            echo "pass1"
+            mapfile -t ARR < "${FILE}"
+            echo "pass2"
+            for ((i=0; i<${#ARR[@]}; i+=2)); do
+                streaming_url=$(echo "${ARR[i]}" | sed 's/^streaming_url://')
+                audio_path=$(echo "${ARR[i+1]}" | sed 's/^audio_path://')
+                if [ -n "$streaming_url" ] && [ -n "$audio_path" ]; then
+                    if ffmpeg -http_seekable 0 -i "$streaming_url" -ab 46k -ac 2 -ar 24000 -write_xing 0 "$audio_path" 2>/dev/null; then
+                        echo "ffmpeg コマンドが成功しました: $streaming_url -> $audio_path"
+                        sleep 30
+                    else
+                        echo "ffmpeg コマンドが失敗しました: $streaming_url -> $audio_path"
+                    fi
+                fi
+            done
+
+      - name: auto-commit-changes
+        if: always()
+        run: |
+            chmod +x scripts/auto-commit-audio-changes.sh
+            scripts/auto-commit-audio-changes.sh
+
+      - name: End WireGuard VPN
+        if: always() # どんな状態でも必ず実行する
+        run: sudo wg-quick down wg0
