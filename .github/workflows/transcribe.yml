@@ -1,0 +1,126 @@
+name: Transcribe MP3 Files
+
+on:
+#  schedule:
+#    - cron: '0 6 * * 1-5'  # UTCで平日の午前6時（JSTで午後3時)
+  workflow_dispatch:    # 手動トリガーを有効にする設定
+
+jobs:
+  generate_matrix:
+    runs-on: ubuntu-latest
+    outputs:
+      matrix: ${{ steps.set-matrix.outputs.matrix }}
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          architecture: 'x64'
+
+      - name: Generate matrix dynamically
+        id: set-matrix
+        run: |
+          python3 << EOF
+          import os
+          import json
+          directory = '.'
+          audio_path = []
+          for root, dirs, files in os.walk(directory):
+              for file in files:
+                  if file.endswith('.mp3'):
+                      srt_file = os.path.join(root, file + '.srt')
+                      audio_file = os.path.join(root, file)
+                      if not os.path.exists(srt_file):
+                          audio_path.append(audio_file)
+          matrix_arr = json.dumps({"path": audio_path})
+          print(audio_path)
+          with open(os.getenv('GITHUB_OUTPUT'), 'a') as output_file:
+            output_file.write(f"matrix={matrix_arr}\n")
+          EOF
+
+  transcribe:
+    needs: generate_matrix
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      max-parallel: 5
+      matrix:
+        path: ${{ fromJson(needs.generate_matrix.outputs.matrix).path }}
+    continue-on-error: true
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+        
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          architecture: 'x64'
+
+      - name: Install library
+        run: |
+          set -e
+          sudo apt update
+          sudo apt install -y ffmpeg
+
+      - name: sound-ci-setup
+        uses: LABSN/sound-ci-helpers@v1
+
+      - name: Upgrade pip and install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r scripts/requirements.txt
+          pip install --force-reinstall "faster-whisper @ https://github.com/SYSTRAN/faster-whisper/archive/refs/heads/master.tar.gz"
+        
+      - name: speech to text
+        if: matrix.path != ''
+        run: |
+          python scripts/transcribe.py "${{ matrix.path }}"
+
+      - name: Archive srt files in temp folder
+        run: |
+          chmod +x scripts/temp_archive.sh
+          scripts/temp_archive.sh
+
+      - name: Prepare artifact environment
+        id: set-arti-env
+        if: matrix.path != ''
+        run: |
+          ARTIFACT_NAME=$(echo "${{ matrix.path }}" | sed 's/\"//g; s/^\.\///; s/\//-/g')-files
+          echo "name=$ARTIFACT_NAME" >> "$GITHUB_OUTPUT"
+          
+      - name: Upload artifacts
+        if: matrix.path != ''
+        uses: actions/upload-artifact@v4
+        with:
+          name: ${{ steps.set-arti-env.outputs.name }}
+          path: archived/
+          retention-days: 1
+
+  collect-and-commit:
+    runs-on: ubuntu-latest
+    needs: transcribe
+    if: always()
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Download artifacts from all jobs
+        uses: actions/download-artifact@v4
+        with:
+          path: downloaded-artifacts
+
+      - name: Unzip tar
+        run: |
+          chmod +x scripts/tar_unzip.sh
+          scripts/tar_unzip.sh
+
+      - name: Commit and push all changes
+        run: |
+          sudo apt install tree
+          tree
+          chmod +x scripts/auto-commit-srt-changes.sh
+          scripts/auto-commit-srt-changes.sh
