@@ -1,0 +1,6 @@
+requests
+json5
+ffmpeg-python
+srt
+faster_whisper
+pydub
