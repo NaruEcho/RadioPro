@@ -70,5 +70,14 @@
         "streaming_url": "https://vod-stream.nhk.jp/radioondemand/r/77RQWQX1L6/s/stream_77RQWQX1L6_bf82feebfd5d7bc230e1d3a4ec6adda7/index.m3u8",
         "audio_path": "/home/runner/work/RadioPro/RadioPro/content/news_de_manabu_gendai_eigo/2024/11/21.mp3",
         "download_date": "2024-11-21-12-33-10"
+    },
+    "2024-11-22": {
+        "title": "ニュースで学ぶ「現代英語」　教員の不足人数　年度途中で１．３倍に",
+        "sub_title": "ニュースや研究の現場で活躍している専門家が、「実際に現場で使っている英語」をニュースの背景とともに解説します。ＭＣ：トラウデン直美　解説：前嶋和弘",
+        "onair_date": "2024年11月22日(金)午前9:30放送",
+        "closed_date": "2024年11月29日(金)午前9:45配信終了",
+        "streaming_url": "https://vod-stream.nhk.jp/radioondemand/r/77RQWQX1L6/s/stream_77RQWQX1L6_dc643e0ebcfc229ba92423f4e348d3ed/index.m3u8",
+        "audio_path": "/home/runner/work/RadioPro/RadioPro/content/news_de_manabu_gendai_eigo/2024/11/22.mp3",
+        "download_date": "2024-11-22-12-33-35"
     }
 }
