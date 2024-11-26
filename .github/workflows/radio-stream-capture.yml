@@ -65,7 +65,7 @@ jobs:
       - name: Save info JSON
         run: |
             python scripts/setup_and_get_info.py
-            sleep 40
+            sleep 60
 
       - name: Convert m3u8 to mp3
         run: |
