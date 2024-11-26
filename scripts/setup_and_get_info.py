@@ -179,6 +179,7 @@ if __name__ == "__main__":
         print("root directory found")
         print(f"WORKSPACE: {workspace}")
         pass_array = get_streaming_url()
+        print("do get_streamingurl()")
         if pass_array is not None:
             print(pass_array)
             with open("scripts/temp.txt", "w") as file:
