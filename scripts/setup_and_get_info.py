@@ -130,8 +130,8 @@ def get_streaming_url():
             episodes = data.get('episodes', None)
             if episodes is None:
                 print(f"Error: {info['title']}/episodes not found")
-                continue
-                #return None
+                return None
+                #continue
             for episode in episodes:
                 streaming_url = episode.get('stream_url', None)
                 onair_date = episode.get('onair_date', None)
