@@ -87,6 +87,7 @@ def get_streaming_url():
             url = info["url"]
             try:
                 response = requests.get(url)
+                print(f"{url}")
                 response.raise_for_status() # HTTPエラーが発生した場合は例外をスロー
             except requests.exceptions.RequestException as e:
                 print(f"Error fetching {info['title']}: {e}")
