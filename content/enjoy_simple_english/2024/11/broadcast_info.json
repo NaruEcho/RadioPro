@@ -88,5 +88,23 @@
         "streaming_url": "https://vod-stream.nhk.jp/radioondemand/r/BR8Z3NX7XM/s/stream_BR8Z3NX7XM_9a84a07f6cb49fe4afc3c8aba67674be/index.m3u8",
         "audio_path": "/home/runner/work/RadioPro/RadioPro/content/enjoy_simple_english/2024/11/25.mp3",
         "download_date": "2024-11-25-12-36-25"
+    },
+    "2024-11-26": {
+        "title": "エンジョイ・シンプル・イングリッシュ「ラッシュアワー＆戦わずして勝つ」",
+        "sub_title": "【司会】森崎ウィン",
+        "onair_date": "2024年11月26日(火)午前9:10放送",
+        "closed_date": "2024年12月3日(火)午前9:15配信終了",
+        "streaming_url": "https://vod-stream.nhk.jp/radioondemand/r/BR8Z3NX7XM/s/stream_BR8Z3NX7XM_e97d4ef2c6156f82eab3fef738c9e112/index.m3u8",
+        "audio_path": "/home/runner/work/RadioPro/RadioPro/content/enjoy_simple_english/2024/11/26.mp3",
+        "download_date": "2024-11-27-22-44-15"
+    },
+    "2024-11-27": {
+        "title": "エンジョイ・シンプル・イングリッシュ「痛みの少ない注射針」",
+        "sub_title": "【司会】森崎ウィン",
+        "onair_date": "2024年11月27日(水)午前9:10放送",
+        "closed_date": "2024年12月4日(水)午前9:15配信終了",
+        "streaming_url": "https://vod-stream.nhk.jp/radioondemand/r/BR8Z3NX7XM/s/stream_BR8Z3NX7XM_ad17435fea1895948f43d0ce3d061be7/index.m3u8",
+        "audio_path": "/home/runner/work/RadioPro/RadioPro/content/enjoy_simple_english/2024/11/27.mp3",
+        "download_date": "2024-11-27-22-44-15"
     }
 }

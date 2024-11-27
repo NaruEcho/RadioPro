@@ -88,5 +88,23 @@
         "streaming_url": "https://vod-stream.nhk.jp/radioondemand/r/983PKQPYN7/s/stream_983PKQPYN7_5d02747e28302c9fe200bb1151281de7/index.m3u8",
         "audio_path": "/home/runner/work/RadioPro/RadioPro/content/mainichi_chuugokugo/2024/11/25.mp3",
         "download_date": "2024-11-25-12-36-28"
+    },
+    "2024-11-26": {
+        "title": "まいにち中国語　口と耳で“イメトレ”！（３７）",
+        "sub_title": "　",
+        "onair_date": "2024年11月26日(火)午前8:15放送",
+        "closed_date": "2024年12月3日(火)午前8:30配信終了",
+        "streaming_url": "https://vod-stream.nhk.jp/radioondemand/r/983PKQPYN7/s/stream_983PKQPYN7_5184c5479a751d26475e38e87634e3cf/index.m3u8",
+        "audio_path": "/home/runner/work/RadioPro/RadioPro/content/mainichi_chuugokugo/2024/11/26.mp3",
+        "download_date": "2024-11-27-22-44-19"
+    },
+    "2024-11-27": {
+        "title": "まいにち中国語　口と耳で“イメトレ”！（３８）",
+        "sub_title": "　",
+        "onair_date": "2024年11月27日(水)午前8:15放送",
+        "closed_date": "2024年12月4日(水)午前8:30配信終了",
+        "streaming_url": "https://vod-stream.nhk.jp/radioondemand/r/983PKQPYN7/s/stream_983PKQPYN7_5424816bc1b363909cd745bc252f2833/index.m3u8",
+        "audio_path": "/home/runner/work/RadioPro/RadioPro/content/mainichi_chuugokugo/2024/11/27.mp3",
+        "download_date": "2024-11-27-22-44-19"
     }
 }
