@@ -2,7 +2,7 @@
     "year": "2024年度前期",
     "url_json": "https://www.nhk.or.jp/radio-api/app/v1/web/ondemand/series?site_id={}&corner_site_id={}",
     "programs": [
-        {"dir": "6805", "sub": "01", "title": "小学生の基礎英語", "folder_title": "shougakusei_no_kiso_eigo"},
+        {"dir": "GGQY3M1929", "sub": "01", "title": "小学生の基礎英語", "folder_title": "shougakusei_no_kiso_eigo"},
         {"dir": "6806", "sub": "01", "title": "中学生の基礎英語 レベル1", "folder_title": "chuugakusei_no_kiso_eigo_level_1"},
         {"dir": "6807", "sub": "01", "title": "中学生の基礎英語 レベル２", "folder_title": "chuugakusei_no_kiso_eigo_level_2"},
         {"dir": "6808", "sub": "01", "title": "中高生の基礎英語 in English", "folder_title": "chuukousei_no_kiso_eigo_in_english"},
