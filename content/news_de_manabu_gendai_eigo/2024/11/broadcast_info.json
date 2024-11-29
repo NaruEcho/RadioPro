@@ -115,5 +115,14 @@
         "streaming_url": "https://vod-stream.nhk.jp/radioondemand/r/77RQWQX1L6/s/stream_77RQWQX1L6_ef484d758bce51fb22dfbaca56c852eb/index.m3u8",
         "audio_path": "/home/runner/work/RadioPro/RadioPro/content/news_de_manabu_gendai_eigo/2024/11/28.mp3",
         "download_date": "2024-11-28-12-36-43"
+    },
+    "2024-11-29": {
+        "title": "ニュースで学ぶ「現代英語」“伝統的酒造り”　ユネスコ無形文化遺産登録へ",
+        "sub_title": "ニュースや研究の現場で活躍している専門家が、「実際に現場で使っている英語」をニュースの背景とともに解説します。ＭＣ：トラウデン直美　解説：大門小百合",
+        "onair_date": "2024年11月29日(金)午前9:30放送",
+        "closed_date": "2024年12月6日(金)午前9:45配信終了",
+        "streaming_url": "https://vod-stream.nhk.jp/radioondemand/r/77RQWQX1L6/s/stream_77RQWQX1L6_8103c2633ea5c36db73d3b327177d627/index.m3u8",
+        "audio_path": "/home/runner/work/RadioPro/RadioPro/content/news_de_manabu_gendai_eigo/2024/11/29.mp3",
+        "download_date": "2024-11-29-12-36-30"
     }
 }
