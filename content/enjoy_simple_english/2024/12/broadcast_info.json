@@ -52,5 +52,14 @@
         "streaming_url": "https://vod-stream.nhk.jp/radioondemand/r/BR8Z3NX7XM/s/stream_BR8Z3NX7XM_6645af4e8fefbfcb1eba4e6bcf7e6053/index.m3u8",
         "audio_path": "/home/runner/work/RadioPro/RadioPro/content/enjoy_simple_english/2024/12/09.mp3",
         "download_date": "2024-12-09-12-41-42"
+    },
+    "2024-12-10": {
+        "title": "エンジョイ・シンプル・イングリッシュ「頭が良くなる薬＆理想の結婚相手」",
+        "sub_title": "【司会】森崎ウィン",
+        "onair_date": "2024年12月10日(火)午前9:10放送",
+        "closed_date": "2024年12月17日(火)午前9:15配信終了",
+        "streaming_url": "https://vod-stream.nhk.jp/radioondemand/r/BR8Z3NX7XM/s/stream_BR8Z3NX7XM_442ec50cb3e9ddafc20a70ebfe9bb022/index.m3u8",
+        "audio_path": "/home/runner/work/RadioPro/RadioPro/content/enjoy_simple_english/2024/12/10.mp3",
+        "download_date": "2024-12-10-12-40-34"
     }
 }

@@ -52,5 +52,14 @@
         "streaming_url": "https://vod-stream.nhk.jp/radioondemand/r/XQ487ZM61K/s/stream_XQ487ZM61K_b293e8dd6507fd4d19f5de3057879b03/index.m3u8",
         "audio_path": "/home/runner/work/RadioPro/RadioPro/content/mainichi_french_go_shokyuu_en_ouyou/2024/12/09.mp3",
         "download_date": "2024-12-09-12-41-50"
+    },
+    "2024-12-10": {
+        "title": "まいにちフランス語　初級編　ＣａｍｉｌｌｅとＹｕｋｉのふだん使いのフランス語２９",
+        "sub_title": "　",
+        "onair_date": "2024年12月10日(火)午前7:30放送",
+        "closed_date": "2024年12月17日(火)午前7:45配信終了",
+        "streaming_url": "https://vod-stream.nhk.jp/radioondemand/r/XQ487ZM61K/s/stream_XQ487ZM61K_673f6d16611622b83a3a75a1ca137ade/index.m3u8",
+        "audio_path": "/home/runner/work/RadioPro/RadioPro/content/mainichi_french_go_shokyuu_en_ouyou/2024/12/10.mp3",
+        "download_date": "2024-12-10-12-40-39"
     }
 }
