@@ -70,5 +70,14 @@
         "streaming_url": "https://vod-stream.nhk.jp/radioondemand/r/77RQWQX1L6/s/stream_77RQWQX1L6_8fde9e9e987d77b8ae220125f5dd456f/index.m3u8",
         "audio_path": "/home/runner/work/RadioPro/RadioPro/content/news_de_manabu_gendai_eigo/2024/12/11.mp3",
         "download_date": "2024-12-11-12-38-56"
+    },
+    "2024-12-12": {
+        "title": "ニュースで学ぶ「現代英語」　中国　日本人の短期ビザ免除措置を再開",
+        "sub_title": "ニュースや研究の現場で活躍している専門家が、「実際に現場で使っている英語」をニュースの背景とともに解説します。ＭＣ：トラウデン直美　解説：前嶋和弘",
+        "onair_date": "2024年12月12日(木)午前9:30放送",
+        "closed_date": "2024年12月19日(木)午前9:45配信終了",
+        "streaming_url": "https://vod-stream.nhk.jp/radioondemand/r/77RQWQX1L6/s/stream_77RQWQX1L6_c5d45ae4aa8cbdc58fba219b0b435fa0/index.m3u8",
+        "audio_path": "/home/runner/work/RadioPro/RadioPro/content/news_de_manabu_gendai_eigo/2024/12/12.mp3",
+        "download_date": "2024-12-12-12-38-58"
     }
 }
