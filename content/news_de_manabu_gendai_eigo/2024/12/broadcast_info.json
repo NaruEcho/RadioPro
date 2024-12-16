@@ -88,5 +88,14 @@
         "streaming_url": "https://vod-stream.nhk.jp/radioondemand/r/77RQWQX1L6/s/stream_77RQWQX1L6_f3ee39dc96ed793d79b47916da8aaed7/index.m3u8",
         "audio_path": "/home/runner/work/RadioPro/RadioPro/content/news_de_manabu_gendai_eigo/2024/12/13.mp3",
         "download_date": "2024-12-13-12-39-21"
+    },
+    "2024-12-16": {
+        "title": "ニュースで学ぶ「現代英語」　イスラエルとレバノン　停戦合意発効",
+        "sub_title": "「現代英語」とは、世界で実際に使われている英語です。最新の英語ニュースを通して、生きた英語を身につけます。講師：伊藤サム　パートナー：クリスティ・ウェスト",
+        "onair_date": "2024年12月16日(月)午前9:30放送",
+        "closed_date": "2024年12月23日(月)午前9:45配信終了",
+        "streaming_url": "https://vod-stream.nhk.jp/radioondemand/r/77RQWQX1L6/s/stream_77RQWQX1L6_33c991a9c90bb41685c551a6cbaacaa5/index.m3u8",
+        "audio_path": "/home/runner/work/RadioPro/RadioPro/content/news_de_manabu_gendai_eigo/2024/12/16.mp3",
+        "download_date": "2024-12-16-12-42-10"
     }
 }
