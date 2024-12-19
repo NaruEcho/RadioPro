@@ -115,5 +115,14 @@
         "streaming_url": "https://vod-stream.nhk.jp/radioondemand/r/BR8Z3NX7XM/s/stream_BR8Z3NX7XM_5f3d739f75994434dc65d8273014cf58/index.m3u8",
         "audio_path": "/home/runner/work/RadioPro/RadioPro/content/enjoy_simple_english/2024/12/18.mp3",
         "download_date": "2024-12-18-12-33-21"
+    },
+    "2024-12-19": {
+        "title": "エンジョイ・シンプル・イングリッシュ「ライオンときつね」",
+        "sub_title": "【司会】森崎ウィン",
+        "onair_date": "2024年12月19日(木)午前9:10放送",
+        "closed_date": "2024年12月26日(木)午前9:15配信終了",
+        "streaming_url": "https://vod-stream.nhk.jp/radioondemand/r/BR8Z3NX7XM/s/stream_BR8Z3NX7XM_26904395e42b6d285981b06948a44efd/index.m3u8",
+        "audio_path": "/home/runner/work/RadioPro/RadioPro/content/enjoy_simple_english/2024/12/19.mp3",
+        "download_date": "2024-12-19-12-34-10"
     }
 }

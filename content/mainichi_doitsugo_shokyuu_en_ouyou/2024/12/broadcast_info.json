@@ -115,5 +115,14 @@
         "streaming_url": "https://vod-stream.nhk.jp/radioondemand/r/N8PZRZ9WQY/s/stream_N8PZRZ9WQY_1e63600376f4e2c6e4716beec9a5656a/index.m3u8",
         "audio_path": "/home/runner/work/RadioPro/RadioPro/content/mainichi_doitsugo_shokyuu_en_ouyou/2024/12/18.mp3",
         "download_date": "2024-12-18-12-33-25"
+    },
+    "2024-12-19": {
+        "title": "まいにちドイツ語　応用編　多和田葉子を読む（２１）",
+        "sub_title": "　",
+        "onair_date": "2024年12月19日(木)午前7:00放送",
+        "closed_date": "2024年12月26日(木)午前7:15配信終了",
+        "streaming_url": "https://vod-stream.nhk.jp/radioondemand/r/N8PZRZ9WQY/s/stream_N8PZRZ9WQY_6ed1539dc14d9cb5ed3bfacb134c4138/index.m3u8",
+        "audio_path": "/home/runner/work/RadioPro/RadioPro/content/mainichi_doitsugo_shokyuu_en_ouyou/2024/12/19.mp3",
+        "download_date": "2024-12-19-12-34-18"
     }
 }
