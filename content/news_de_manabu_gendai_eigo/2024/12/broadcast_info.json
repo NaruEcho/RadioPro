@@ -133,5 +133,14 @@
         "streaming_url": "https://vod-stream.nhk.jp/radioondemand/r/77RQWQX1L6/s/stream_77RQWQX1L6_d9124efaa8d15a833284d60a4aeb234c/index.m3u8",
         "audio_path": "/home/runner/work/RadioPro/RadioPro/content/news_de_manabu_gendai_eigo/2024/12/20.mp3",
         "download_date": "2024-12-20-12-28-21"
+    },
+    "2024-12-23": {
+        "title": "ニュースで学ぶ「現代英語」　ルーマニア憲法裁“大統領選挙は無効”",
+        "sub_title": "「現代英語」とは、世界で実際に使われている英語です。最新の英語ニュースを通して、生きた英語を身につけます。講師：伊藤サム　パートナー：クリスティ・ウェスト",
+        "onair_date": "2024年12月23日(月)午前9:30放送",
+        "closed_date": "2024年12月30日(月)午前9:45配信終了",
+        "streaming_url": "https://vod-stream.nhk.jp/radioondemand/r/77RQWQX1L6/s/stream_77RQWQX1L6_bc77f3f0d2223607a5943fc088077f7d/index.m3u8",
+        "audio_path": "/home/runner/work/RadioPro/RadioPro/content/news_de_manabu_gendai_eigo/2024/12/23.mp3",
+        "download_date": "2024-12-23-12-29-29"
     }
 }

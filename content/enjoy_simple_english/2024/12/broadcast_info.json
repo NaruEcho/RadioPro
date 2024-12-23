@@ -133,5 +133,14 @@
         "streaming_url": "https://vod-stream.nhk.jp/radioondemand/r/BR8Z3NX7XM/s/stream_BR8Z3NX7XM_2f221490cdaa478af7f7c5b03da41325/index.m3u8",
         "audio_path": "/home/runner/work/RadioPro/RadioPro/content/enjoy_simple_english/2024/12/20.mp3",
         "download_date": "2024-12-20-12-28-19"
+    },
+    "2024-12-23": {
+        "title": "エンジョイ・シンプル・イングリッシュ「箱根への道」",
+        "sub_title": "【司会】森崎ウィン",
+        "onair_date": "2024年12月23日(月)午前9:10放送",
+        "closed_date": "2024年12月30日(月)午前9:15配信終了",
+        "streaming_url": "https://vod-stream.nhk.jp/radioondemand/r/BR8Z3NX7XM/s/stream_BR8Z3NX7XM_cb0b5279748ed2303f937708c1c6d306/index.m3u8",
+        "audio_path": "/home/runner/work/RadioPro/RadioPro/content/enjoy_simple_english/2024/12/23.mp3",
+        "download_date": "2024-12-23-12-29-27"
     }
 }
