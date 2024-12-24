@@ -142,5 +142,14 @@
         "streaming_url": "https://vod-stream.nhk.jp/radioondemand/r/77RQWQX1L6/s/stream_77RQWQX1L6_bc77f3f0d2223607a5943fc088077f7d/index.m3u8",
         "audio_path": "/home/runner/work/RadioPro/RadioPro/content/news_de_manabu_gendai_eigo/2024/12/23.mp3",
         "download_date": "2024-12-23-12-29-29"
+    },
+    "2024-12-24": {
+        "title": "ニュースで学ぶ「現代英語」　クリスマス前に“おもちゃ病院”が活躍",
+        "sub_title": "「現代英語」とは、世界で実際に使われている英語です。最新の英語ニュースを通して、生きた英語を身につけます。講師：伊藤サム　パートナー：クリスティ・ウェスト",
+        "onair_date": "2024年12月24日(火)午前9:30放送",
+        "closed_date": "2024年12月31日(火)午前9:45配信終了",
+        "streaming_url": "https://vod-stream.nhk.jp/radioondemand/r/77RQWQX1L6/s/stream_77RQWQX1L6_3aa75f11f14f08a3f1a0f88bad10909a/index.m3u8",
+        "audio_path": "/home/runner/work/RadioPro/RadioPro/content/news_de_manabu_gendai_eigo/2024/12/24.mp3",
+        "download_date": "2024-12-24-12-28-16"
     }
 }
