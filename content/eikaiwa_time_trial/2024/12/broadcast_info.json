@@ -151,5 +151,14 @@
         "streaming_url": "https://vod-stream.nhk.jp/radioondemand/r/8Z6XJ6J415/s/stream_8Z6XJ6J415_cfd7d709861557f8066cd43f1132b0f6/index.m3u8",
         "audio_path": "/home/runner/work/RadioPro/RadioPro/content/eikaiwa_time_trial/2024/12/24.mp3",
         "download_date": "2024-12-24-12-28-14"
+    },
+    "2024-12-25": {
+        "title": "英会話タイムトライアル「１２月ＤＡＹ８」",
+        "sub_title": "　",
+        "onair_date": "2024年12月25日(水)午前8:30放送",
+        "closed_date": "2025年1月1日(水)午前8:40配信終了",
+        "streaming_url": "https://vod-stream.nhk.jp/radioondemand/r/8Z6XJ6J415/s/stream_8Z6XJ6J415_a89b3cd1f22558ed245f97008ef9b04f/index.m3u8",
+        "audio_path": "/home/runner/work/RadioPro/RadioPro/content/eikaiwa_time_trial/2024/12/25.mp3",
+        "download_date": "2024-12-25-12-27-07"
     }
 }

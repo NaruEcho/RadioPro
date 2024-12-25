@@ -151,5 +151,14 @@
         "streaming_url": "https://vod-stream.nhk.jp/radioondemand/r/BR8Z3NX7XM/s/stream_BR8Z3NX7XM_6d31a886fce351071a1b8d768e7a36fd/index.m3u8",
         "audio_path": "/home/runner/work/RadioPro/RadioPro/content/enjoy_simple_english/2024/12/24.mp3",
         "download_date": "2024-12-24-12-28-13"
+    },
+    "2024-12-25": {
+        "title": "エンジョイ・シンプル・イングリッシュ「通信カラオケ」",
+        "sub_title": "【司会】森崎ウィン",
+        "onair_date": "2024年12月25日(水)午前9:10放送",
+        "closed_date": "2025年1月1日(水)午前9:15配信終了",
+        "streaming_url": "https://vod-stream.nhk.jp/radioondemand/r/BR8Z3NX7XM/s/stream_BR8Z3NX7XM_5e1c2cc9314a60c3e501c5afe978308e/index.m3u8",
+        "audio_path": "/home/runner/work/RadioPro/RadioPro/content/enjoy_simple_english/2024/12/25.mp3",
+        "download_date": "2024-12-25-12-27-06"
     }
 }
