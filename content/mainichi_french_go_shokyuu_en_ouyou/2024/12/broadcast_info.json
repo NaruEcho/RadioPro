@@ -160,5 +160,14 @@
         "streaming_url": "https://vod-stream.nhk.jp/radioondemand/r/XQ487ZM61K/s/stream_XQ487ZM61K_f49628d705d2c228941b137c5af44167/index.m3u8",
         "audio_path": "/home/runner/work/RadioPro/RadioPro/content/mainichi_french_go_shokyuu_en_ouyou/2024/12/25.mp3",
         "download_date": "2024-12-25-12-27-10"
+    },
+    "2024-12-26": {
+        "title": "まいにちフランス語　応用編　ラ・ブリュイエールを読む（２３）",
+        "sub_title": "　",
+        "onair_date": "2024年12月26日(木)午前7:30放送",
+        "closed_date": "2025年1月2日(木)午前7:45配信終了",
+        "streaming_url": "https://vod-stream.nhk.jp/radioondemand/r/XQ487ZM61K/s/stream_XQ487ZM61K_082dcb82d18fc1f0132909ded5e3a442/index.m3u8",
+        "audio_path": "/home/runner/work/RadioPro/RadioPro/content/mainichi_french_go_shokyuu_en_ouyou/2024/12/26.mp3",
+        "download_date": "2024-12-26-12-28-44"
     }
 }
