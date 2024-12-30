@@ -178,5 +178,14 @@
         "streaming_url": "https://vod-stream.nhk.jp/radioondemand/r/77RQWQX1L6/s/stream_77RQWQX1L6_20d68611554e628cd91b30271989e29f/index.m3u8",
         "audio_path": "/home/runner/work/RadioPro/RadioPro/content/news_de_manabu_gendai_eigo/2024/12/27.mp3",
         "download_date": "2024-12-27-12-27-26"
+    },
+    "2024-12-30": {
+        "title": "ニュースで学ぶ「現代英語」　南アフリカでアニメやゲームの見本市",
+        "sub_title": "「現代英語」とは、世界で実際に使われている英語です。最新の英語ニュースを通して、生きた英語を身につけます。講師：伊藤サム　パートナー：クリスティ・ウェスト",
+        "onair_date": "2024年12月30日(月)午前9:30放送",
+        "closed_date": "2025年1月6日(月)午前9:45配信終了",
+        "streaming_url": "https://vod-stream.nhk.jp/radioondemand/r/77RQWQX1L6/s/stream_77RQWQX1L6_b1e52280ecbd95c0e580e03117b1c344/index.m3u8",
+        "audio_path": "/home/runner/work/RadioPro/RadioPro/content/news_de_manabu_gendai_eigo/2024/12/30.mp3",
+        "download_date": "2024-12-30-12-30-07"
     }
 }

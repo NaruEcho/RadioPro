@@ -178,5 +178,23 @@
         "streaming_url": "https://vod-stream.nhk.jp/radioondemand/r/BR8Z3NX7XM/s/stream_BR8Z3NX7XM_996121564b898149e71ce574704e888b/index.m3u8",
         "audio_path": "/home/runner/work/RadioPro/RadioPro/content/enjoy_simple_english/2024/12/27.mp3",
         "download_date": "2024-12-27-12-27-23"
+    },
+    "2024-12-29": {
+        "title": "エンジョイ・シンプル・イングリッシュ　メイド・イン・ジャパン物語（１）缶入りパン",
+        "sub_title": "年末特番では備蓄食として人気の「缶入りパン」の誕生物語を英語ストーリーでご紹介します。開発者にインタビューし、番組監修者のダニエル先生に英語表現も教わります。",
+        "onair_date": "2024年12月29日(日)午後5:40放送",
+        "closed_date": "2025年1月5日(日)午後6:00配信終了",
+        "streaming_url": "https://vod-stream.nhk.jp/radioondemand/r/BR8Z3NX7XM/s/stream_BR8Z3NX7XM_a0d3214db227cc601f5efed943fe613d/index.m3u8",
+        "audio_path": "/home/runner/work/RadioPro/RadioPro/content/enjoy_simple_english/2024/12/29.mp3",
+        "download_date": "2024-12-30-12-30-05"
+    },
+    "2024-12-30": {
+        "title": "エンジョイ・シンプル・イングリッシュ「箱根への道」",
+        "sub_title": "【司会】森崎ウィン",
+        "onair_date": "2024年12月30日(月)午前9:10放送",
+        "closed_date": "2025年1月6日(月)午前9:15配信終了",
+        "streaming_url": "https://vod-stream.nhk.jp/radioondemand/r/BR8Z3NX7XM/s/stream_BR8Z3NX7XM_0bd962e156ec03506455c1c1fd23708d/index.m3u8",
+        "audio_path": "/home/runner/work/RadioPro/RadioPro/content/enjoy_simple_english/2024/12/30.mp3",
+        "download_date": "2024-12-30-12-30-05"
     }
 }
