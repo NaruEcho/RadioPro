@@ -196,5 +196,14 @@
         "streaming_url": "https://vod-stream.nhk.jp/radioondemand/r/BR8Z3NX7XM/s/stream_BR8Z3NX7XM_0bd962e156ec03506455c1c1fd23708d/index.m3u8",
         "audio_path": "/home/runner/work/RadioPro/RadioPro/content/enjoy_simple_english/2024/12/30.mp3",
         "download_date": "2024-12-30-12-30-05"
+    },
+    "2024-12-31": {
+        "title": "エンジョイ・シンプル・イングリッシュ「詰め放題＆腕相撲」",
+        "sub_title": "【司会】森崎ウィン",
+        "onair_date": "2024年12月31日(火)午前9:10放送",
+        "closed_date": "2025年1月7日(火)午前9:15配信終了",
+        "streaming_url": "https://vod-stream.nhk.jp/radioondemand/r/BR8Z3NX7XM/s/stream_BR8Z3NX7XM_c50030db4d0f76c32d6a67018638f4e5/index.m3u8",
+        "audio_path": "/home/runner/work/RadioPro/RadioPro/content/enjoy_simple_english/2024/12/31.mp3",
+        "download_date": "2024-12-31-12-26-46"
     }
 }

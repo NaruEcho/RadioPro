@@ -187,5 +187,14 @@
         "streaming_url": "https://vod-stream.nhk.jp/radioondemand/r/77RQWQX1L6/s/stream_77RQWQX1L6_b1e52280ecbd95c0e580e03117b1c344/index.m3u8",
         "audio_path": "/home/runner/work/RadioPro/RadioPro/content/news_de_manabu_gendai_eigo/2024/12/30.mp3",
         "download_date": "2024-12-30-12-30-07"
+    },
+    "2024-12-31": {
+        "title": "ニュースで学ぶ「現代英語」　自転車の罰則強化",
+        "sub_title": "「現代英語」とは、世界で実際に使われている英語です。最新の英語ニュースを通して、生きた英語を身につけます。講師：伊藤サム　パートナー：クリスティ・ウェスト",
+        "onair_date": "2024年12月31日(火)午前9:30放送",
+        "closed_date": "2025年1月7日(火)午前9:45配信終了",
+        "streaming_url": "https://vod-stream.nhk.jp/radioondemand/r/77RQWQX1L6/s/stream_77RQWQX1L6_69b310b7fd15da016800d6291a375452/index.m3u8",
+        "audio_path": "/home/runner/work/RadioPro/RadioPro/content/news_de_manabu_gendai_eigo/2024/12/31.mp3",
+        "download_date": "2024-12-31-12-26-48"
     }
 }
