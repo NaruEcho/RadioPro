@@ -7,5 +7,14 @@
         "streaming_url": "https://vod-stream.nhk.jp/radioondemand/r/BR8Z3NX7XM/s/stream_BR8Z3NX7XM_a9c8fb23b577756d21be551062fde0b3/index.m3u8",
         "audio_path": "/home/runner/work/RadioPro/RadioPro/content/enjoy_simple_english/2025/01/01.mp3",
         "download_date": "2025-01-01-12-34-07"
+    },
+    "2025-01-02": {
+        "title": "エンジョイ・シンプル・イングリッシュ「かにと母親」",
+        "sub_title": "【司会】森崎ウィン",
+        "onair_date": "2025年1月2日(木)午前9:10放送",
+        "closed_date": "2025年1月9日(木)午前9:15配信終了",
+        "streaming_url": "https://vod-stream.nhk.jp/radioondemand/r/BR8Z3NX7XM/s/stream_BR8Z3NX7XM_c0d18769e7cc3e5a101751f235e22e3d/index.m3u8",
+        "audio_path": "/home/runner/work/RadioPro/RadioPro/content/enjoy_simple_english/2025/01/02.mp3",
+        "download_date": "2025-01-02-12-27-22"
     }
 }
