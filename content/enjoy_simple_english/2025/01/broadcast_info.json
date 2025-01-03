@@ -16,5 +16,14 @@
         "streaming_url": "https://vod-stream.nhk.jp/radioondemand/r/BR8Z3NX7XM/s/stream_BR8Z3NX7XM_c0d18769e7cc3e5a101751f235e22e3d/index.m3u8",
         "audio_path": "/home/runner/work/RadioPro/RadioPro/content/enjoy_simple_english/2025/01/02.mp3",
         "download_date": "2025-01-02-12-27-22"
+    },
+    "2025-01-03": {
+        "title": "エンジョイ・シンプル・イングリッシュ「あやしい旅行者－最終話－」",
+        "sub_title": "【司会】森崎ウィン",
+        "onair_date": "2025年1月3日(金)午前9:10放送",
+        "closed_date": "2025年1月10日(金)午前9:15配信終了",
+        "streaming_url": "https://vod-stream.nhk.jp/radioondemand/r/BR8Z3NX7XM/s/stream_BR8Z3NX7XM_fc7447f7db3be7a7a0509f239941afb6/index.m3u8",
+        "audio_path": "/home/runner/work/RadioPro/RadioPro/content/enjoy_simple_english/2025/01/03.mp3",
+        "download_date": "2025-01-03-12-27-38"
     }
 }
