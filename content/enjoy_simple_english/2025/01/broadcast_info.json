@@ -25,5 +25,14 @@
         "streaming_url": "https://vod-stream.nhk.jp/radioondemand/r/BR8Z3NX7XM/s/stream_BR8Z3NX7XM_fc7447f7db3be7a7a0509f239941afb6/index.m3u8",
         "audio_path": "/home/runner/work/RadioPro/RadioPro/content/enjoy_simple_english/2025/01/03.mp3",
         "download_date": "2025-01-03-12-27-38"
+    },
+    "2025-01-06": {
+        "title": "エンジョイ・シンプル・イングリッシュ「新紙幣」",
+        "sub_title": "【司会】森崎ウィン",
+        "onair_date": "2025年1月6日(月)午前9:10放送",
+        "closed_date": "2025年1月13日(月)午前9:15配信終了",
+        "streaming_url": "https://vod-stream.nhk.jp/radioondemand/r/BR8Z3NX7XM/s/stream_BR8Z3NX7XM_c9347da7903090b58ac7a56379e05d83/index.m3u8",
+        "audio_path": "/home/runner/work/RadioPro/RadioPro/content/enjoy_simple_english/2025/01/06.mp3",
+        "download_date": "2025-01-06-12-30-54"
     }
 }

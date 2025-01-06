@@ -25,5 +25,14 @@
         "streaming_url": "https://vod-stream.nhk.jp/radioondemand/r/77RQWQX1L6/s/stream_77RQWQX1L6_622ef8b3bde5f290998d03776d5a0af3/index.m3u8",
         "audio_path": "/home/runner/work/RadioPro/RadioPro/content/news_de_manabu_gendai_eigo/2025/01/03.mp3",
         "download_date": "2025-01-03-12-27-41"
+    },
+    "2025-01-06": {
+        "title": "ニュースで学ぶ「現代英語」　太陽の活動は“極大期”",
+        "sub_title": "「現代英語」とは、世界で実際に使われている英語です。最新の英語ニュースを通して、生きた英語を身につけます。講師：伊藤サム　パートナー：クリスティ・ウェスト",
+        "onair_date": "2025年1月6日(月)午前9:30放送",
+        "closed_date": "2025年1月13日(月)午前9:45配信終了",
+        "streaming_url": "https://vod-stream.nhk.jp/radioondemand/r/77RQWQX1L6/s/stream_77RQWQX1L6_8dd3c0272d8ddd502451f9156e78cfa1/index.m3u8",
+        "audio_path": "/home/runner/work/RadioPro/RadioPro/content/news_de_manabu_gendai_eigo/2025/01/06.mp3",
+        "download_date": "2025-01-06-12-30-56"
     }
 }
