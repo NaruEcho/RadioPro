@@ -61,5 +61,14 @@
         "streaming_url": "https://vod-stream.nhk.jp/radioondemand/r/N8PZRZ9WQY/s/stream_N8PZRZ9WQY_5661d4874f871441e486b0f0c0579f04/index.m3u8",
         "audio_path": "/home/runner/work/RadioPro/RadioPro/content/mainichi_doitsugo_shokyuu_en_ouyou/2025/01/09.mp3",
         "download_date": "2025-01-09-12-41-49"
+    },
+    "2025-01-10": {
+        "title": "まいにちドイツ語　応用編　カフカを読む（２）",
+        "sub_title": "　",
+        "onair_date": "2025年1月10日(金)午前7:00放送",
+        "closed_date": "2025年1月17日(金)午前7:15配信終了",
+        "streaming_url": "https://vod-stream.nhk.jp/radioondemand/r/N8PZRZ9WQY/s/stream_N8PZRZ9WQY_b6dfd1f82a244124e43faec7877c20be/index.m3u8",
+        "audio_path": "/home/runner/work/RadioPro/RadioPro/content/mainichi_doitsugo_shokyuu_en_ouyou/2025/01/10.mp3",
+        "download_date": "2025-01-10-12-30-19"
     }
 }
