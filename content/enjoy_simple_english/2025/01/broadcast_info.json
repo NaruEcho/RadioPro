@@ -79,5 +79,14 @@
         "streaming_url": "https://vod-stream.nhk.jp/radioondemand/r/BR8Z3NX7XM/s/stream_BR8Z3NX7XM_4d0d778f011b1e22c14df4abe888cca7/index.m3u8",
         "audio_path": "/home/runner/work/RadioPro/RadioPro/content/enjoy_simple_english/2025/01/13.mp3",
         "download_date": "2025-01-13-12-32-27"
+    },
+    "2025-01-14": {
+        "title": "エンジョイ・シンプル・イングリッシュ「時計たちの時間＆扇風機」",
+        "sub_title": "【司会】森崎ウィン",
+        "onair_date": "2025年1月14日(火)午前9:10放送",
+        "closed_date": "2025年1月21日(火)午前9:15配信終了",
+        "streaming_url": "https://vod-stream.nhk.jp/radioondemand/r/BR8Z3NX7XM/s/stream_BR8Z3NX7XM_54ae5511bd7349deeb71d828d1bfe816/index.m3u8",
+        "audio_path": "/home/runner/work/RadioPro/RadioPro/content/enjoy_simple_english/2025/01/14.mp3",
+        "download_date": "2025-01-14-12-23-27"
     }
 }
