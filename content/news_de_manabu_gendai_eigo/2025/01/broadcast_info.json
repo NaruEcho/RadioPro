@@ -97,5 +97,14 @@
         "streaming_url": "https://vod-stream.nhk.jp/radioondemand/r/77RQWQX1L6/s/stream_77RQWQX1L6_7708c472d99fba8b631fcd03d4aa319f/index.m3u8",
         "audio_path": "/home/runner/work/RadioPro/RadioPro/content/news_de_manabu_gendai_eigo/2025/01/15.mp3",
         "download_date": "2025-01-15-12-24-32"
+    },
+    "2025-01-16": {
+        "title": "ニュースで学ぶ「現代英語」　コーセー　タイの化粧品企業を買収へ",
+        "sub_title": "ニュースや研究の現場で活躍している専門家が、「実際に現場で使っている英語」をニュースの背景とともに解説します。ＭＣ：トラウデン直美　解説：前嶋和弘",
+        "onair_date": "2025年1月16日(木)午前9:30放送",
+        "closed_date": "2025年1月23日(木)午前9:45配信終了",
+        "streaming_url": "https://vod-stream.nhk.jp/radioondemand/r/77RQWQX1L6/s/stream_77RQWQX1L6_54a28fc78f424bed68928357faa2d4b6/index.m3u8",
+        "audio_path": "/home/runner/work/RadioPro/RadioPro/content/news_de_manabu_gendai_eigo/2025/01/16.mp3",
+        "download_date": "2025-01-16-12-25-04"
     }
 }
