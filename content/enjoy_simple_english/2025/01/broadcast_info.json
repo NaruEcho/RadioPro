@@ -106,5 +106,14 @@
         "streaming_url": "https://vod-stream.nhk.jp/radioondemand/r/BR8Z3NX7XM/s/stream_BR8Z3NX7XM_d262ef0cdff1681a3f104d2d8dbc3122/index.m3u8",
         "audio_path": "/home/runner/work/RadioPro/RadioPro/content/enjoy_simple_english/2025/01/16.mp3",
         "download_date": "2025-01-16-12-25-02"
+    },
+    "2025-01-17": {
+        "title": "エンジョイ・シンプル・イングリッシュ「女王の首飾り－第２話－」",
+        "sub_title": "【司会】森崎ウィン",
+        "onair_date": "2025年1月17日(金)午前9:10放送",
+        "closed_date": "2025年1月24日(金)午前9:15配信終了",
+        "streaming_url": "https://vod-stream.nhk.jp/radioondemand/r/BR8Z3NX7XM/s/stream_BR8Z3NX7XM_a4d69aae8098c8b822f6b617f89f6044/index.m3u8",
+        "audio_path": "/home/runner/work/RadioPro/RadioPro/content/enjoy_simple_english/2025/01/17.mp3",
+        "download_date": "2025-01-17-12-25-56"
     }
 }
