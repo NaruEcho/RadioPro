@@ -115,5 +115,14 @@
         "streaming_url": "https://vod-stream.nhk.jp/radioondemand/r/BR8Z3NX7XM/s/stream_BR8Z3NX7XM_a4d69aae8098c8b822f6b617f89f6044/index.m3u8",
         "audio_path": "/home/runner/work/RadioPro/RadioPro/content/enjoy_simple_english/2025/01/17.mp3",
         "download_date": "2025-01-17-12-25-56"
+    },
+    "2025-01-20": {
+        "title": "エンジョイ・シンプル・イングリッシュ「ダメージジーンズ」",
+        "sub_title": "【司会】森崎ウィン",
+        "onair_date": "2025年1月20日(月)午前9:10放送",
+        "closed_date": "2025年1月27日(月)午前9:15配信終了",
+        "streaming_url": "https://vod-stream.nhk.jp/radioondemand/r/BR8Z3NX7XM/s/stream_BR8Z3NX7XM_788d765aa090ef6a94c17972dcaf9805/index.m3u8",
+        "audio_path": "/home/runner/work/RadioPro/RadioPro/content/enjoy_simple_english/2025/01/20.mp3",
+        "download_date": "2025-01-20-12-26-02"
     }
 }
