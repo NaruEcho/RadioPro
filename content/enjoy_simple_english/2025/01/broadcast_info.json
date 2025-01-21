@@ -124,5 +124,14 @@
         "streaming_url": "https://vod-stream.nhk.jp/radioondemand/r/BR8Z3NX7XM/s/stream_BR8Z3NX7XM_788d765aa090ef6a94c17972dcaf9805/index.m3u8",
         "audio_path": "/home/runner/work/RadioPro/RadioPro/content/enjoy_simple_english/2025/01/20.mp3",
         "download_date": "2025-01-20-12-26-02"
+    },
+    "2025-01-21": {
+        "title": "エンジョイ・シンプル・イングリッシュ「トイレ戦争＆音声検索」",
+        "sub_title": "【司会】森崎ウィン",
+        "onair_date": "2025年1月21日(火)午前9:10放送",
+        "closed_date": "2025年1月28日(火)午前9:15配信終了",
+        "streaming_url": "https://vod-stream.nhk.jp/radioondemand/r/BR8Z3NX7XM/s/stream_BR8Z3NX7XM_1963fe22fd40766266745de517ec7bcf/index.m3u8",
+        "audio_path": "/home/runner/work/RadioPro/RadioPro/content/enjoy_simple_english/2025/01/21.mp3",
+        "download_date": "2025-01-21-12-24-50"
     }
 }

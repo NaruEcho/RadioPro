@@ -124,5 +124,14 @@
         "streaming_url": "https://vod-stream.nhk.jp/radioondemand/r/983PKQPYN7/s/stream_983PKQPYN7_7b8325a74acf175d7a449e580adb13a8/index.m3u8",
         "audio_path": "/home/runner/work/RadioPro/RadioPro/content/mainichi_chuugokugo/2025/01/20.mp3",
         "download_date": "2025-01-20-12-26-05"
+    },
+    "2025-01-21": {
+        "title": "まいにち中国語　口と耳で“イメトレ”！（７２）",
+        "sub_title": "　",
+        "onair_date": "2025年1月21日(火)午前8:15放送",
+        "closed_date": "2025年1月28日(火)午前8:30配信終了",
+        "streaming_url": "https://vod-stream.nhk.jp/radioondemand/r/983PKQPYN7/s/stream_983PKQPYN7_a4651dc65e6df2d8858a98d0f2b8c409/index.m3u8",
+        "audio_path": "/home/runner/work/RadioPro/RadioPro/content/mainichi_chuugokugo/2025/01/21.mp3",
+        "download_date": "2025-01-21-12-24-53"
     }
 }
