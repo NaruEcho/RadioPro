@@ -133,5 +133,14 @@
         "streaming_url": "https://vod-stream.nhk.jp/radioondemand/r/XQ487ZM61K/s/stream_XQ487ZM61K_3d2649ad6eb4038a1a828ac680a2e47a/index.m3u8",
         "audio_path": "/home/runner/work/RadioPro/RadioPro/content/mainichi_french_go_shokyuu_en_ouyou/2025/01/21.mp3",
         "download_date": "2025-01-21-12-24-55"
+    },
+    "2025-01-22": {
+        "title": "まいにちフランス語　初級編　ＣａｍｉｌｌｅとＹｕｋｉのふだん使いのフランス語４５",
+        "sub_title": "　",
+        "onair_date": "2025年1月22日(水)午前7:30放送",
+        "closed_date": "2025年1月29日(水)午前7:45配信終了",
+        "streaming_url": "https://vod-stream.nhk.jp/radioondemand/r/XQ487ZM61K/s/stream_XQ487ZM61K_1baab5118db635e200e48f983c5410d8/index.m3u8",
+        "audio_path": "/home/runner/work/RadioPro/RadioPro/content/mainichi_french_go_shokyuu_en_ouyou/2025/01/22.mp3",
+        "download_date": "2025-01-22-12-28-32"
     }
 }
