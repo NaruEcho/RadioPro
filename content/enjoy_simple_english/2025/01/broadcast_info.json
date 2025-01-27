@@ -160,5 +160,14 @@
         "streaming_url": "https://vod-stream.nhk.jp/radioondemand/r/BR8Z3NX7XM/s/stream_BR8Z3NX7XM_ba1ea5651d0171236e8ec21d2e75abce/index.m3u8",
         "audio_path": "/home/runner/work/RadioPro/RadioPro/content/enjoy_simple_english/2025/01/24.mp3",
         "download_date": "2025-01-24-12-25-54"
+    },
+    "2025-01-27": {
+        "title": "エンジョイ・シンプル・イングリッシュ「声が好き」",
+        "sub_title": "【司会】森崎ウィン",
+        "onair_date": "2025年1月27日(月)午前9:10放送",
+        "closed_date": "2025年2月3日(月)午前9:15配信終了",
+        "streaming_url": "https://vod-stream.nhk.jp/radioondemand/r/BR8Z3NX7XM/s/stream_BR8Z3NX7XM_b3594e24a38031fb37d752447c82e5d5/index.m3u8",
+        "audio_path": "/home/runner/work/RadioPro/RadioPro/content/enjoy_simple_english/2025/01/27.mp3",
+        "download_date": "2025-01-27-12-27-49"
     }
 }
