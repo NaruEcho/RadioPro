@@ -169,5 +169,14 @@
         "streaming_url": "https://vod-stream.nhk.jp/radioondemand/r/77RQWQX1L6/s/stream_77RQWQX1L6_9c54bf294a658157175c6e14798d7e5a/index.m3u8",
         "audio_path": "/home/runner/work/RadioPro/RadioPro/content/news_de_manabu_gendai_eigo/2025/01/27.mp3",
         "download_date": "2025-01-27-12-27-50"
+    },
+    "2025-01-28": {
+        "title": "ニュースで学ぶ「現代英語」　阪神・淡路大震災を語り継ぐ絵本　完成",
+        "sub_title": "「現代英語」とは、世界で実際に使われている英語です。最新の英語ニュースを通して、生きた英語を身につけます。講師：伊藤サム　パートナー：クリスティ・ウェスト",
+        "onair_date": "2025年1月28日(火)午前9:30放送",
+        "closed_date": "2025年2月4日(火)午前9:45配信終了",
+        "streaming_url": "https://vod-stream.nhk.jp/radioondemand/r/77RQWQX1L6/s/stream_77RQWQX1L6_53beaef5c92fc18e3d7c471d6bcc7845/index.m3u8",
+        "audio_path": "/home/runner/work/RadioPro/RadioPro/content/news_de_manabu_gendai_eigo/2025/01/28.mp3",
+        "download_date": "2025-01-28-12-26-19"
     }
 }
