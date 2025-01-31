@@ -196,5 +196,14 @@
         "streaming_url": "https://vod-stream.nhk.jp/radioondemand/r/8Z6XJ6J415/s/stream_8Z6XJ6J415_791180005a72fa1f19f0e5ad9d0d5049/index.m3u8",
         "audio_path": "/home/runner/work/RadioPro/RadioPro/content/eikaiwa_time_trial/2025/01/30.mp3",
         "download_date": "2025-01-30-12-26-11"
+    },
+    "2025-01-31": {
+        "title": "英会話タイムトライアル「１月ＤＡＹ１５」",
+        "sub_title": "　",
+        "onair_date": "2025年1月31日(金)午前8:30放送",
+        "closed_date": "2025年2月7日(金)午前8:40配信終了",
+        "streaming_url": "https://vod-stream.nhk.jp/radioondemand/r/8Z6XJ6J415/s/stream_8Z6XJ6J415_09de621bdf6fbedc15bc8898418da19b/index.m3u8",
+        "audio_path": "/home/runner/work/RadioPro/RadioPro/content/eikaiwa_time_trial/2025/01/31.mp3",
+        "download_date": "2025-01-31-12-26-16"
     }
 }

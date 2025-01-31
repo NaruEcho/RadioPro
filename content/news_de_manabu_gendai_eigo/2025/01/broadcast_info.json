@@ -196,5 +196,14 @@
         "streaming_url": "https://vod-stream.nhk.jp/radioondemand/r/77RQWQX1L6/s/stream_77RQWQX1L6_721f1ce50d2b336af9f728d5af28910d/index.m3u8",
         "audio_path": "/home/runner/work/RadioPro/RadioPro/content/news_de_manabu_gendai_eigo/2025/01/30.mp3",
         "download_date": "2025-01-30-12-26-13"
+    },
+    "2025-01-31": {
+        "title": "ニュースで学ぶ「現代英語」“塩水で分解”プラスチック開発",
+        "sub_title": "ニュースや研究の現場で活躍している専門家が、「実際に現場で使っている英語」をニュースの背景とともに解説します。ＭＣ：トラウデン直美　解説：前嶋和弘",
+        "onair_date": "2025年1月31日(金)午前9:30放送",
+        "closed_date": "2025年2月7日(金)午前9:45配信終了",
+        "streaming_url": "https://vod-stream.nhk.jp/radioondemand/r/77RQWQX1L6/s/stream_77RQWQX1L6_7b318a8d2c3d9a62ca562ea1d407f567/index.m3u8",
+        "audio_path": "/home/runner/work/RadioPro/RadioPro/content/news_de_manabu_gendai_eigo/2025/01/31.mp3",
+        "download_date": "2025-01-31-12-26-18"
     }
 }
