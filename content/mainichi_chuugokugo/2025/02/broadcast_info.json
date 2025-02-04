@@ -7,5 +7,14 @@
         "streaming_url": "https://vod-stream.nhk.jp/radioondemand/r/983PKQPYN7/s/stream_983PKQPYN7_07b8dbfbb7b619563c2b9c17473a8a47/index.m3u8",
         "audio_path": "/home/runner/work/RadioPro/RadioPro/content/mainichi_chuugokugo/2025/02/03.mp3",
         "download_date": "2025-02-03-12-31-14"
+    },
+    "2025-02-04": {
+        "title": "まいにち中国語　口と耳で“イメトレ”！（８２）",
+        "sub_title": "（８２）私は明日また来ます。（時間などに関する副詞２：”再”・”又”）",
+        "onair_date": "2025年2月4日(火)午前8:15放送",
+        "closed_date": "2025年2月11日(火)午前8:30配信終了",
+        "streaming_url": "https://vod-stream.nhk.jp/radioondemand/r/983PKQPYN7/s/stream_983PKQPYN7_b59f60cda3048e3539d1b3cfb454e06f/index.m3u8",
+        "audio_path": "/home/runner/work/RadioPro/RadioPro/content/mainichi_chuugokugo/2025/02/04.mp3",
+        "download_date": "2025-02-04-12-27-02"
     }
 }
