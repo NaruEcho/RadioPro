@@ -25,5 +25,14 @@
         "streaming_url": "https://vod-stream.nhk.jp/radioondemand/r/BR8Z3NX7XM/s/stream_BR8Z3NX7XM_dec559a741f746021d249fe0b9c7cf6e/index.m3u8",
         "audio_path": "/home/runner/work/RadioPro/RadioPro/content/enjoy_simple_english/2025/02/05.mp3",
         "download_date": "2025-02-05-12-30-11"
+    },
+    "2025-02-06": {
+        "title": "エンジョイ・シンプル・イングリッシュ「ミダス王」",
+        "sub_title": "【司会】森崎ウィン",
+        "onair_date": "2025年2月6日(木)午前9:10放送",
+        "closed_date": "2025年2月13日(木)午前9:15配信終了",
+        "streaming_url": "https://vod-stream.nhk.jp/radioondemand/r/BR8Z3NX7XM/s/stream_BR8Z3NX7XM_e79e5fee3830aea0c891d1130bb8eb1a/index.m3u8",
+        "audio_path": "/home/runner/work/RadioPro/RadioPro/content/enjoy_simple_english/2025/02/06.mp3",
+        "download_date": "2025-02-06-12-28-21"
     }
 }

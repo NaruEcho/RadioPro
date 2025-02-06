@@ -16,5 +16,23 @@
         "streaming_url": "https://vod-stream.nhk.jp/radioondemand/r/983PKQPYN7/s/stream_983PKQPYN7_b59f60cda3048e3539d1b3cfb454e06f/index.m3u8",
         "audio_path": "/home/runner/work/RadioPro/RadioPro/content/mainichi_chuugokugo/2025/02/04.mp3",
         "download_date": "2025-02-04-12-27-02"
+    },
+    "2025-02-05": {
+        "title": "まいにち中国語　口と耳で“イメトレ”！（８３）",
+        "sub_title": "（８３）その問題はすでに解決しました。（時間などに関する副詞３：”已経”・”都”・”剛／剛剛”）",
+        "onair_date": "2025年2月5日(水)午後10:15放送",
+        "closed_date": "2025年2月12日(水)午後10:30配信終了",
+        "streaming_url": "https://vod-stream.nhk.jp/radioondemand/r/983PKQPYN7/s/stream_983PKQPYN7_9c02ad0ac4fe16c69e93ab243e982c80/index.m3u8",
+        "audio_path": "/home/runner/work/RadioPro/RadioPro/content/mainichi_chuugokugo/2025/02/05.mp3",
+        "download_date": "2025-02-06-12-28-24"
+    },
+    "2025-02-06": {
+        "title": "まいにち中国語　口と耳で“イメトレ”！（８４）",
+        "sub_title": "（８４）あなたはなぜそんなに一生懸命勉強するのですか。（原因・理由・方法をたずねる表現）",
+        "onair_date": "2025年2月6日(木)午前8:15放送",
+        "closed_date": "2025年2月13日(木)午前8:30配信終了",
+        "streaming_url": "https://vod-stream.nhk.jp/radioondemand/r/983PKQPYN7/s/stream_983PKQPYN7_1399c59b8fd62a403a20690ae263aa31/index.m3u8",
+        "audio_path": "/home/runner/work/RadioPro/RadioPro/content/mainichi_chuugokugo/2025/02/06.mp3",
+        "download_date": "2025-02-06-12-28-24"
     }
 }
