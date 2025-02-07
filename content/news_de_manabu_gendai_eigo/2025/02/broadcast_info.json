@@ -34,5 +34,14 @@
         "streaming_url": "https://vod-stream.nhk.jp/radioondemand/r/77RQWQX1L6/s/stream_77RQWQX1L6_de7af13b81244828ee23f9a243db3b80/index.m3u8",
         "audio_path": "/home/runner/work/RadioPro/RadioPro/content/news_de_manabu_gendai_eigo/2025/02/06.mp3",
         "download_date": "2025-02-06-12-28-23"
+    },
+    "2025-02-07": {
+        "title": "ニュースで学ぶ「現代英語」　脱炭素へ　液化ＣＯ２輸送船を公開",
+        "sub_title": "ニュースや研究の現場で活躍している専門家が、「実際に現場で使っている英語」をニュースの背景とともに解説します。ＭＣ：トラウデン直美　解説：大門小百合",
+        "onair_date": "2025年2月7日(金)午前9:30放送",
+        "closed_date": "2025年2月14日(金)午前9:45配信終了",
+        "streaming_url": "https://vod-stream.nhk.jp/radioondemand/r/77RQWQX1L6/s/stream_77RQWQX1L6_b271f816d382eea40d17451ba38831cb/index.m3u8",
+        "audio_path": "/home/runner/work/RadioPro/RadioPro/content/news_de_manabu_gendai_eigo/2025/02/07.mp3",
+        "download_date": "2025-02-07-12-30-18"
     }
 }
