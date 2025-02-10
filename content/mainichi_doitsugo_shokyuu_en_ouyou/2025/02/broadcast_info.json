@@ -43,5 +43,14 @@
         "streaming_url": "https://vod-stream.nhk.jp/radioondemand/r/N8PZRZ9WQY/s/stream_N8PZRZ9WQY_3a6e6ee5e3fef0a59590b25d770cc41c/index.m3u8",
         "audio_path": "/home/runner/work/RadioPro/RadioPro/content/mainichi_doitsugo_shokyuu_en_ouyou/2025/02/07.mp3",
         "download_date": "2025-02-07-12-30-20"
+    },
+    "2025-02-10": {
+        "title": "まいにちドイツ語　初級編　文法からはじめよう（５２）",
+        "sub_title": "　",
+        "onair_date": "2025年2月10日(月)午前7:00放送",
+        "closed_date": "2025年2月17日(月)午前7:15配信終了",
+        "streaming_url": "https://vod-stream.nhk.jp/radioondemand/r/N8PZRZ9WQY/s/stream_N8PZRZ9WQY_537af54e84549a0fed212c2931ccec4e/index.m3u8",
+        "audio_path": "/home/runner/work/RadioPro/RadioPro/content/mainichi_doitsugo_shokyuu_en_ouyou/2025/02/10.mp3",
+        "download_date": "2025-02-10-12-28-40"
     }
 }
