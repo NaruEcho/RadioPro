@@ -52,5 +52,14 @@
         "streaming_url": "https://vod-stream.nhk.jp/radioondemand/r/983PKQPYN7/s/stream_983PKQPYN7_ee6abf15d186229ceb0b5ef79fc59442/index.m3u8",
         "audio_path": "/home/runner/work/RadioPro/RadioPro/content/mainichi_chuugokugo/2025/02/10.mp3",
         "download_date": "2025-02-10-12-28-38"
+    },
+    "2025-02-11": {
+        "title": "まいにち中国語　口と耳で“イメトレ”！（８７）",
+        "sub_title": "（８７）彼はわたしより２センチ背が高いです。（比較の表現２）",
+        "onair_date": "2025年2月11日(火)午前8:15放送",
+        "closed_date": "2025年2月18日(火)午前8:30配信終了",
+        "streaming_url": "https://vod-stream.nhk.jp/radioondemand/r/983PKQPYN7/s/stream_983PKQPYN7_292c248ad14772cd73473de7a6c62b97/index.m3u8",
+        "audio_path": "/home/runner/work/RadioPro/RadioPro/content/mainichi_chuugokugo/2025/02/11.mp3",
+        "download_date": "2025-02-11-12-27-12"
     }
 }

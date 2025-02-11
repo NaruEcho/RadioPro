@@ -52,5 +52,14 @@
         "streaming_url": "https://vod-stream.nhk.jp/radioondemand/r/77RQWQX1L6/s/stream_77RQWQX1L6_0744591f9db61a4c7eab723d694f9501/index.m3u8",
         "audio_path": "/home/runner/work/RadioPro/RadioPro/content/news_de_manabu_gendai_eigo/2025/02/10.mp3",
         "download_date": "2025-02-10-12-28-37"
+    },
+    "2025-02-11": {
+        "title": "ニュースで学ぶ「現代英語」　大阪・関西万博　「日本館」を初公開",
+        "sub_title": "「現代英語」とは、世界で実際に使われている英語です。最新の英語ニュースを通して、生きた英語を身につけます。講師：伊藤サム　パートナー：クリスティ・ウェスト",
+        "onair_date": "2025年2月11日(火)午前9:30放送",
+        "closed_date": "2025年2月18日(火)午前9:45配信終了",
+        "streaming_url": "https://vod-stream.nhk.jp/radioondemand/r/77RQWQX1L6/s/stream_77RQWQX1L6_12302e4d52288583083eea989ef0b91f/index.m3u8",
+        "audio_path": "/home/runner/work/RadioPro/RadioPro/content/news_de_manabu_gendai_eigo/2025/02/11.mp3",
+        "download_date": "2025-02-11-12-27-11"
     }
 }
