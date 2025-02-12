@@ -61,5 +61,14 @@
         "streaming_url": "https://vod-stream.nhk.jp/radioondemand/r/983PKQPYN7/s/stream_983PKQPYN7_292c248ad14772cd73473de7a6c62b97/index.m3u8",
         "audio_path": "/home/runner/work/RadioPro/RadioPro/content/mainichi_chuugokugo/2025/02/11.mp3",
         "download_date": "2025-02-11-12-27-12"
+    },
+    "2025-02-12": {
+        "title": "まいにち中国語　口と耳で“イメトレ”！（８８）",
+        "sub_title": "（８８）この本はあの本ほど難しくありません。（比較の表現３）",
+        "onair_date": "2025年2月12日(水)午前8:15放送",
+        "closed_date": "2025年2月19日(水)午前8:30配信終了",
+        "streaming_url": "https://vod-stream.nhk.jp/radioondemand/r/983PKQPYN7/s/stream_983PKQPYN7_8f22ed37506fc0251867b17a6268ac2e/index.m3u8",
+        "audio_path": "/home/runner/work/RadioPro/RadioPro/content/mainichi_chuugokugo/2025/02/12.mp3",
+        "download_date": "2025-02-12-12-26-28"
     }
 }
