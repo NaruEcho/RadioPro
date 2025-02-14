@@ -79,5 +79,14 @@
         "streaming_url": "https://vod-stream.nhk.jp/radioondemand/r/BR8Z3NX7XM/s/stream_BR8Z3NX7XM_c56498d971e22baf5c4a3af00b18b96d/index.m3u8",
         "audio_path": "/home/runner/work/RadioPro/RadioPro/content/enjoy_simple_english/2025/02/13.mp3",
         "download_date": "2025-02-13-12-27-09"
+    },
+    "2025-02-14": {
+        "title": "エンジョイ・シンプル・イングリッシュ「赤い絹のスカーフ－第２話－」",
+        "sub_title": "【司会】森崎ウィン",
+        "onair_date": "2025年2月14日(金)午前9:10放送",
+        "closed_date": "2025年2月21日(金)午前9:15配信終了",
+        "streaming_url": "https://vod-stream.nhk.jp/radioondemand/r/BR8Z3NX7XM/s/stream_BR8Z3NX7XM_5d3b92901a05c94a35c3736cc6cc5c38/index.m3u8",
+        "audio_path": "/home/runner/work/RadioPro/RadioPro/content/enjoy_simple_english/2025/02/14.mp3",
+        "download_date": "2025-02-14-12-26-58"
     }
 }
