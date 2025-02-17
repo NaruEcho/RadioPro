@@ -88,5 +88,14 @@
         "streaming_url": "https://vod-stream.nhk.jp/radioondemand/r/983PKQPYN7/s/stream_983PKQPYN7_f4bb255be8f4d344e69b9bc7189d263c/index.m3u8",
         "audio_path": "/home/runner/work/RadioPro/RadioPro/content/mainichi_chuugokugo/2025/02/14.mp3",
         "download_date": "2025-02-14-12-27-02"
+    },
+    "2025-02-17": {
+        "title": "まいにち中国語　口と耳で“イメトレ”！（９１）",
+        "sub_title": "（９１）わたしは泳げます。（助動詞”会”）",
+        "onair_date": "2025年2月17日(月)午前8:15放送",
+        "closed_date": "2025年2月24日(月)午前8:30配信終了",
+        "streaming_url": "https://vod-stream.nhk.jp/radioondemand/r/983PKQPYN7/s/stream_983PKQPYN7_db7fcc78cf2b53ca32fd60808d0907c1/index.m3u8",
+        "audio_path": "/home/runner/work/RadioPro/RadioPro/content/mainichi_chuugokugo/2025/02/17.mp3",
+        "download_date": "2025-02-17-12-30-08"
     }
 }
