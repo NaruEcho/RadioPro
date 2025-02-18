@@ -97,5 +97,14 @@
         "streaming_url": "https://vod-stream.nhk.jp/radioondemand/r/BR8Z3NX7XM/s/stream_BR8Z3NX7XM_a6642c72d55502c897e42904367ea361/index.m3u8",
         "audio_path": "/home/runner/work/RadioPro/RadioPro/content/enjoy_simple_english/2025/02/17.mp3",
         "download_date": "2025-02-17-12-30-06"
+    },
+    "2025-02-18": {
+        "title": "エンジョイ・シンプル・イングリッシュ「幽霊たち＆ちょい役」",
+        "sub_title": "【司会】森崎ウィン",
+        "onair_date": "2025年2月18日(火)午前9:10放送",
+        "closed_date": "2025年2月25日(火)午前9:15配信終了",
+        "streaming_url": "https://vod-stream.nhk.jp/radioondemand/r/BR8Z3NX7XM/s/stream_BR8Z3NX7XM_3387ec10f4b1d8654554ae0b21b7286b/index.m3u8",
+        "audio_path": "/home/runner/work/RadioPro/RadioPro/content/enjoy_simple_english/2025/02/18.mp3",
+        "download_date": "2025-02-18-12-26-12"
     }
 }

@@ -97,5 +97,14 @@
         "streaming_url": "https://vod-stream.nhk.jp/radioondemand/r/77RQWQX1L6/s/stream_77RQWQX1L6_75b8f444b1331b9047f4f2ebf262c3ea/index.m3u8",
         "audio_path": "/home/runner/work/RadioPro/RadioPro/content/news_de_manabu_gendai_eigo/2025/02/17.mp3",
         "download_date": "2025-02-17-12-30-07"
+    },
+    "2025-02-18": {
+        "title": "ニュースで学ぶ「現代英語」　政府　アフリカと経済面の連携強化へ",
+        "sub_title": "「現代英語」とは、世界で実際に使われている英語です。最新の英語ニュースを通して、生きた英語を身につけます。講師：伊藤サム　パートナー：クリスティ・ウェスト",
+        "onair_date": "2025年2月18日(火)午前9:30放送",
+        "closed_date": "2025年2月25日(火)午前9:45配信終了",
+        "streaming_url": "https://vod-stream.nhk.jp/radioondemand/r/77RQWQX1L6/s/stream_77RQWQX1L6_84d326532530c440355a5b721b6143f8/index.m3u8",
+        "audio_path": "/home/runner/work/RadioPro/RadioPro/content/news_de_manabu_gendai_eigo/2025/02/18.mp3",
+        "download_date": "2025-02-18-12-26-15"
     }
 }
