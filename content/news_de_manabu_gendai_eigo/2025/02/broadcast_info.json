@@ -106,5 +106,14 @@
         "streaming_url": "https://vod-stream.nhk.jp/radioondemand/r/77RQWQX1L6/s/stream_77RQWQX1L6_84d326532530c440355a5b721b6143f8/index.m3u8",
         "audio_path": "/home/runner/work/RadioPro/RadioPro/content/news_de_manabu_gendai_eigo/2025/02/18.mp3",
         "download_date": "2025-02-18-12-26-15"
+    },
+    "2025-02-19": {
+        "title": "ニュースで学ぶ「現代英語」　スズメなど里山の鳥が急減",
+        "sub_title": "ニュースや研究の現場で活躍している専門家が、「実際に現場で使っている英語」をニュースの背景とともに解説します。ＭＣ：トラウデン直美　解説：大門小百合",
+        "onair_date": "2025年2月19日(水)午前9:30放送",
+        "closed_date": "2025年2月26日(水)午前9:45配信終了",
+        "streaming_url": "https://vod-stream.nhk.jp/radioondemand/r/77RQWQX1L6/s/stream_77RQWQX1L6_45e268080d6e2905538f4713e4dcf4ab/index.m3u8",
+        "audio_path": "/home/runner/work/RadioPro/RadioPro/content/news_de_manabu_gendai_eigo/2025/02/19.mp3",
+        "download_date": "2025-02-19-12-30-10"
     }
 }
