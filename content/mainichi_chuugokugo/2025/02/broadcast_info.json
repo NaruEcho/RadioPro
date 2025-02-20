@@ -115,5 +115,14 @@
         "streaming_url": "https://vod-stream.nhk.jp/radioondemand/r/983PKQPYN7/s/stream_983PKQPYN7_753c83f8d85913e172f365848344efb3/index.m3u8",
         "audio_path": "/home/runner/work/RadioPro/RadioPro/content/mainichi_chuugokugo/2025/02/19.mp3",
         "download_date": "2025-02-19-12-30-14"
+    },
+    "2025-02-20": {
+        "title": "まいにち中国語　口と耳で“イメトレ”！（９４）",
+        "sub_title": "（９４）あなたは真面目に少し考えるべきです。（助動詞”應該”・”得”）",
+        "onair_date": "2025年2月20日(木)午前8:15放送",
+        "closed_date": "2025年2月27日(木)午前8:30配信終了",
+        "streaming_url": "https://vod-stream.nhk.jp/radioondemand/r/983PKQPYN7/s/stream_983PKQPYN7_71699120d34f1392cbd9484f4e53f75a/index.m3u8",
+        "audio_path": "/home/runner/work/RadioPro/RadioPro/content/mainichi_chuugokugo/2025/02/20.mp3",
+        "download_date": "2025-02-20-12-28-37"
     }
 }
