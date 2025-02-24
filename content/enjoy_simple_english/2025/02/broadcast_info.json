@@ -133,5 +133,14 @@
         "streaming_url": "https://vod-stream.nhk.jp/radioondemand/r/BR8Z3NX7XM/s/stream_BR8Z3NX7XM_b8bc2fc91aee6c36a124b9168d8a9a48/index.m3u8",
         "audio_path": "/home/runner/work/RadioPro/RadioPro/content/enjoy_simple_english/2025/02/21.mp3",
         "download_date": "2025-02-21-12-28-46"
+    },
+    "2025-02-24": {
+        "title": "エンジョイ・シンプル・イングリッシュ「田舎のいいところ」",
+        "sub_title": "【司会】森崎ウィン",
+        "onair_date": "2025年2月24日(月)午前9:10放送",
+        "closed_date": "2025年3月3日(月)午前9:15配信終了",
+        "streaming_url": "https://vod-stream.nhk.jp/radioondemand/r/BR8Z3NX7XM/s/stream_BR8Z3NX7XM_881fa95d440dbaebb77460b6bf28c079/index.m3u8",
+        "audio_path": "/home/runner/work/RadioPro/RadioPro/content/enjoy_simple_english/2025/02/24.mp3",
+        "download_date": "2025-02-24-12-31-53"
     }
 }
