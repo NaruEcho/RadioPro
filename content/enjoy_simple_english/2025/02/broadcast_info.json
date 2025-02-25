@@ -142,5 +142,14 @@
         "streaming_url": "https://vod-stream.nhk.jp/radioondemand/r/BR8Z3NX7XM/s/stream_BR8Z3NX7XM_881fa95d440dbaebb77460b6bf28c079/index.m3u8",
         "audio_path": "/home/runner/work/RadioPro/RadioPro/content/enjoy_simple_english/2025/02/24.mp3",
         "download_date": "2025-02-24-12-31-53"
+    },
+    "2025-02-25": {
+        "title": "エンジョイ・シンプル・イングリッシュ「ファミリーレストラン＆総合案内所」",
+        "sub_title": "【司会】森崎ウィン",
+        "onair_date": "2025年2月25日(火)午前9:10放送",
+        "closed_date": "2025年3月4日(火)午前9:15配信終了",
+        "streaming_url": "https://vod-stream.nhk.jp/radioondemand/r/BR8Z3NX7XM/s/stream_BR8Z3NX7XM_9d2289cff31e18c814a7fdd99d17e95b/index.m3u8",
+        "audio_path": "/home/runner/work/RadioPro/RadioPro/content/enjoy_simple_english/2025/02/25.mp3",
+        "download_date": "2025-02-25-12-30-51"
     }
 }
