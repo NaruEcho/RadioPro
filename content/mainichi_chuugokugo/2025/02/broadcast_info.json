@@ -160,5 +160,14 @@
         "streaming_url": "https://vod-stream.nhk.jp/radioondemand/r/983PKQPYN7/s/stream_983PKQPYN7_98d0e86e9439fb8cc890e245275ef8f4/index.m3u8",
         "audio_path": "/home/runner/work/RadioPro/RadioPro/content/mainichi_chuugokugo/2025/02/26.mp3",
         "download_date": "2025-02-26-12-30-41"
+    },
+    "2025-02-27": {
+        "title": "まいにち中国語　口と耳で“イメトレ”！（９９）",
+        "sub_title": "（９９）彼は笑い出しました。（方向補語３：派生の意味）",
+        "onair_date": "2025年2月27日(木)午前8:15放送",
+        "closed_date": "2025年3月6日(木)午前8:30配信終了",
+        "streaming_url": "https://vod-stream.nhk.jp/radioondemand/r/983PKQPYN7/s/stream_983PKQPYN7_23b69f4e50fc573c17f8eb6402487aac/index.m3u8",
+        "audio_path": "/home/runner/work/RadioPro/RadioPro/content/mainichi_chuugokugo/2025/02/27.mp3",
+        "download_date": "2025-02-27-12-32-31"
     }
 }
