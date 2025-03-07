@@ -34,5 +34,14 @@
         "streaming_url": "https://vod-stream.nhk.jp/radioondemand/r/983PKQPYN7/s/stream_983PKQPYN7_42fbab705ee0e4f174b5986200628041/index.m3u8",
         "audio_path": "/home/runner/work/RadioPro/RadioPro/content/mainichi_chuugokugo/2025/03/06.mp3",
         "download_date": "2025-03-06-12-33-31"
+    },
+    "2025-03-07": {
+        "title": "まいにち中国語　口と耳で“イメトレ”！（１０５）",
+        "sub_title": "（１０５）今週のおさらい",
+        "onair_date": "2025年3月7日(金)午前8:15放送",
+        "closed_date": "2025年3月14日(金)午前8:30配信終了",
+        "streaming_url": "https://vod-stream.nhk.jp/radioondemand/r/983PKQPYN7/s/stream_983PKQPYN7_0d5862d8658f1adc34514b86bfe14af2/index.m3u8",
+        "audio_path": "/home/runner/work/RadioPro/RadioPro/content/mainichi_chuugokugo/2025/03/07.mp3",
+        "download_date": "2025-03-07-12-35-08"
     }
 }

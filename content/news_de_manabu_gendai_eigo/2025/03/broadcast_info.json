@@ -34,5 +34,14 @@
         "streaming_url": "https://vod-stream.nhk.jp/radioondemand/r/77RQWQX1L6/s/stream_77RQWQX1L6_1c5e72458363f21314e9be085d469313/index.m3u8",
         "audio_path": "/home/runner/work/RadioPro/RadioPro/content/news_de_manabu_gendai_eigo/2025/03/06.mp3",
         "download_date": "2025-03-06-12-33-30"
+    },
+    "2025-03-07": {
+        "title": "ニュースで学ぶ「現代英語」　トキ　来年６月ごろ能登地域で放鳥へ",
+        "sub_title": "ニュースや研究の現場で活躍している専門家が、「実際に現場で使っている英語」をニュースの背景とともに解説します。ＭＣ：トラウデン直美　解説：前嶋和弘",
+        "onair_date": "2025年3月7日(金)午前9:30放送",
+        "closed_date": "2025年3月14日(金)午前9:45配信終了",
+        "streaming_url": "https://vod-stream.nhk.jp/radioondemand/r/77RQWQX1L6/s/stream_77RQWQX1L6_9f1970509838e0d57260d48bd96aa5e3/index.m3u8",
+        "audio_path": "/home/runner/work/RadioPro/RadioPro/content/news_de_manabu_gendai_eigo/2025/03/07.mp3",
+        "download_date": "2025-03-07-12-35-07"
     }
 }
