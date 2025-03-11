@@ -52,5 +52,14 @@
         "streaming_url": "https://vod-stream.nhk.jp/radioondemand/r/983PKQPYN7/s/stream_983PKQPYN7_1bdf2d76900eb5656a5a7f1aacb8b89c/index.m3u8",
         "audio_path": "/home/runner/work/RadioPro/RadioPro/content/mainichi_chuugokugo/2025/03/10.mp3",
         "download_date": "2025-03-10-12-25-10"
+    },
+    "2025-03-11": {
+        "title": "まいにち中国語　口と耳で“イメトレ”！（１０７）",
+        "sub_title": "（１０７）わたしはその本を読み終えました。（“把”構文）",
+        "onair_date": "2025年3月11日(火)午前8:15放送",
+        "closed_date": "2025年3月18日(火)午前8:30配信終了",
+        "streaming_url": "https://vod-stream.nhk.jp/radioondemand/r/983PKQPYN7/s/stream_983PKQPYN7_826bdae553e9b4f4505822fb05c3e479/index.m3u8",
+        "audio_path": "/home/runner/work/RadioPro/RadioPro/content/mainichi_chuugokugo/2025/03/11.mp3",
+        "download_date": "2025-03-11-12-34-52"
     }
 }
