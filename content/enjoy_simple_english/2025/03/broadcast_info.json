@@ -61,5 +61,14 @@
         "streaming_url": "https://vod-stream.nhk.jp/radioondemand/r/BR8Z3NX7XM/s/stream_BR8Z3NX7XM_085aa205941444542e1d55d545f440aa/index.m3u8",
         "audio_path": "/home/runner/work/RadioPro/RadioPro/content/enjoy_simple_english/2025/03/11.mp3",
         "download_date": "2025-03-11-12-34-49"
+    },
+    "2025-03-12": {
+        "title": "エンジョイ・シンプル・イングリッシュ「化粧筆」",
+        "sub_title": "【司会】森崎ウィン",
+        "onair_date": "2025年3月12日(水)午前9:10放送",
+        "closed_date": "2025年3月19日(水)午前9:15配信終了",
+        "streaming_url": "https://vod-stream.nhk.jp/radioondemand/r/BR8Z3NX7XM/s/stream_BR8Z3NX7XM_4ab9214ef6a884e3cbf8d786b5e470fa/index.m3u8",
+        "audio_path": "/home/runner/work/RadioPro/RadioPro/content/enjoy_simple_english/2025/03/12.mp3",
+        "download_date": "2025-03-12-12-34-25"
     }
 }

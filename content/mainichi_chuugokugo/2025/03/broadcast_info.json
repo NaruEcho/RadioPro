@@ -61,5 +61,14 @@
         "streaming_url": "https://vod-stream.nhk.jp/radioondemand/r/983PKQPYN7/s/stream_983PKQPYN7_826bdae553e9b4f4505822fb05c3e479/index.m3u8",
         "audio_path": "/home/runner/work/RadioPro/RadioPro/content/mainichi_chuugokugo/2025/03/11.mp3",
         "download_date": "2025-03-11-12-34-52"
+    },
+    "2025-03-12": {
+        "title": "まいにち中国語　口と耳で“イメトレ”！（１０８）",
+        "sub_title": "（１０８）わたしは彼に弁当を買いに行かせます。（使役文）",
+        "onair_date": "2025年3月12日(水)午前8:15放送",
+        "closed_date": "2025年3月19日(水)午前8:30配信終了",
+        "streaming_url": "https://vod-stream.nhk.jp/radioondemand/r/983PKQPYN7/s/stream_983PKQPYN7_b5150c10bb53fc41a71cd1ecf8c8eb99/index.m3u8",
+        "audio_path": "/home/runner/work/RadioPro/RadioPro/content/mainichi_chuugokugo/2025/03/12.mp3",
+        "download_date": "2025-03-12-12-34-27"
     }
 }
