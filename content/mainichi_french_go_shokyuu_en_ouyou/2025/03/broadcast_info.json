@@ -70,5 +70,14 @@
         "streaming_url": "https://vod-stream.nhk.jp/radioondemand/r/XQ487ZM61K/s/stream_XQ487ZM61K_7856e8aacdc586f8c6911ad7e65b72f6/index.m3u8",
         "audio_path": "/home/runner/work/RadioPro/RadioPro/content/mainichi_french_go_shokyuu_en_ouyou/2025/03/12.mp3",
         "download_date": "2025-03-12-12-34-29"
+    },
+    "2025-03-13": {
+        "title": "まいにちフランス語　応用編　１８世紀を読む（４３）",
+        "sub_title": "　",
+        "onair_date": "2025年3月13日(木)午前7:30放送",
+        "closed_date": "2025年3月20日(木)午前7:45配信終了",
+        "streaming_url": "https://vod-stream.nhk.jp/radioondemand/r/XQ487ZM61K/s/stream_XQ487ZM61K_190b1781893a40156d424e2ca233dcc0/index.m3u8",
+        "audio_path": "/home/runner/work/RadioPro/RadioPro/content/mainichi_french_go_shokyuu_en_ouyou/2025/03/13.mp3",
+        "download_date": "2025-03-13-12-35-36"
     }
 }
