@@ -88,5 +88,14 @@
         "streaming_url": "https://vod-stream.nhk.jp/radioondemand/r/77RQWQX1L6/s/stream_77RQWQX1L6_1ac4f539d739e2870b71882c83c53496/index.m3u8",
         "audio_path": "/home/runner/work/RadioPro/RadioPro/content/news_de_manabu_gendai_eigo/2025/03/14.mp3",
         "download_date": "2025-03-14-12-35-43"
+    },
+    "2025-03-17": {
+        "title": "ニュースで学ぶ「現代英語」　犯罪被害者支援の岡村勲弁護士が死去",
+        "sub_title": "「現代英語」とは、世界で実際に使われている英語です。最新の英語ニュースを通して、生きた英語を身につけます。講師：伊藤サム　パートナー：クリスティ・ウェスト",
+        "onair_date": "2025年3月17日(月)午前9:30放送",
+        "closed_date": "2025年3月24日(月)午前9:45配信終了",
+        "streaming_url": "https://vod-stream.nhk.jp/radioondemand/r/77RQWQX1L6/s/stream_77RQWQX1L6_e26263640bcf47475390c7720f3d3947/index.m3u8",
+        "audio_path": "/home/runner/work/RadioPro/RadioPro/content/news_de_manabu_gendai_eigo/2025/03/17.mp3",
+        "download_date": "2025-03-17-12-37-27"
     }
 }
