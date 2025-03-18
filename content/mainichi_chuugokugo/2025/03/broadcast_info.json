@@ -97,5 +97,14 @@
         "streaming_url": "https://vod-stream.nhk.jp/radioondemand/r/983PKQPYN7/s/stream_983PKQPYN7_6e8d76b0903771a0f094ba6ae8d7deb9/index.m3u8",
         "audio_path": "/home/runner/work/RadioPro/RadioPro/content/mainichi_chuugokugo/2025/03/17.mp3",
         "download_date": "2025-03-17-12-37-28"
+    },
+    "2025-03-18": {
+        "title": "まいにち中国語　口と耳で“イメトレ”！（１１２）",
+        "sub_title": "（１１２）あなたは少し何かを飲んでください。（疑問詞を使ったさまざまな表現）",
+        "onair_date": "2025年3月18日(火)午前8:15放送",
+        "closed_date": "2025年3月25日(火)午前8:30配信終了",
+        "streaming_url": "https://vod-stream.nhk.jp/radioondemand/r/983PKQPYN7/s/stream_983PKQPYN7_8f0de35162c247f0f391ce8e02aa3ce5/index.m3u8",
+        "audio_path": "/home/runner/work/RadioPro/RadioPro/content/mainichi_chuugokugo/2025/03/18.mp3",
+        "download_date": "2025-03-18-12-36-36"
     }
 }
