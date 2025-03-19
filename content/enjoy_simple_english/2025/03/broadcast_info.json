@@ -106,5 +106,14 @@
         "streaming_url": "https://vod-stream.nhk.jp/radioondemand/r/BR8Z3NX7XM/s/stream_BR8Z3NX7XM_97394c1675988de3b5b02649be1b0b71/index.m3u8",
         "audio_path": "/home/runner/work/RadioPro/RadioPro/content/enjoy_simple_english/2025/03/18.mp3",
         "download_date": "2025-03-18-12-36-33"
+    },
+    "2025-03-19": {
+        "title": "エンジョイ・シンプル・イングリッシュ「超低出生体重児用人工呼吸器」",
+        "sub_title": "【司会】森崎ウィン",
+        "onair_date": "2025年3月19日(水)午前9:10放送",
+        "closed_date": "2025年3月26日(水)午前9:15配信終了",
+        "streaming_url": "https://vod-stream.nhk.jp/radioondemand/r/BR8Z3NX7XM/s/stream_BR8Z3NX7XM_4b60cc9103edda56a39b7957db4d8411/index.m3u8",
+        "audio_path": "/home/runner/work/RadioPro/RadioPro/content/enjoy_simple_english/2025/03/19.mp3",
+        "download_date": "2025-03-19-12-36-32"
     }
 }

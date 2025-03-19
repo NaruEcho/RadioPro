@@ -106,5 +106,14 @@
         "streaming_url": "https://vod-stream.nhk.jp/radioondemand/r/983PKQPYN7/s/stream_983PKQPYN7_8f0de35162c247f0f391ce8e02aa3ce5/index.m3u8",
         "audio_path": "/home/runner/work/RadioPro/RadioPro/content/mainichi_chuugokugo/2025/03/18.mp3",
         "download_date": "2025-03-18-12-36-36"
+    },
+    "2025-03-19": {
+        "title": "まいにち中国語　口と耳で“イメトレ”！（１１３）",
+        "sub_title": "（１１３）彼は眠いとき、よくコーヒーを飲みます。（時間関連のさまざまな表現）",
+        "onair_date": "2025年3月19日(水)午前8:15放送",
+        "closed_date": "2025年3月26日(水)午前8:30配信終了",
+        "streaming_url": "https://vod-stream.nhk.jp/radioondemand/r/983PKQPYN7/s/stream_983PKQPYN7_a3298cde273d3560d95ea46c900e0609/index.m3u8",
+        "audio_path": "/home/runner/work/RadioPro/RadioPro/content/mainichi_chuugokugo/2025/03/19.mp3",
+        "download_date": "2025-03-19-12-36-36"
     }
 }
