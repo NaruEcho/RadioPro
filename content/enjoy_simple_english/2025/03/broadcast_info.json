@@ -115,5 +115,14 @@
         "streaming_url": "https://vod-stream.nhk.jp/radioondemand/r/BR8Z3NX7XM/s/stream_BR8Z3NX7XM_4b60cc9103edda56a39b7957db4d8411/index.m3u8",
         "audio_path": "/home/runner/work/RadioPro/RadioPro/content/enjoy_simple_english/2025/03/19.mp3",
         "download_date": "2025-03-19-12-36-32"
+    },
+    "2025-03-20": {
+        "title": "エンジョイ・シンプル・イングリッシュ「ナルキッソス」",
+        "sub_title": "【司会】森崎ウィン",
+        "onair_date": "2025年3月20日(木)午前9:10放送",
+        "closed_date": "2025年3月27日(木)午前9:15配信終了",
+        "streaming_url": "https://vod-stream.nhk.jp/radioondemand/r/BR8Z3NX7XM/s/stream_BR8Z3NX7XM_4d0523beec4252a58e49c37ae576d46e/index.m3u8",
+        "audio_path": "/home/runner/work/RadioPro/RadioPro/content/enjoy_simple_english/2025/03/20.mp3",
+        "download_date": "2025-03-20-12-35-26"
     }
 }

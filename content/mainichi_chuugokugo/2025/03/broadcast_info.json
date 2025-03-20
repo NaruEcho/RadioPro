@@ -115,5 +115,14 @@
         "streaming_url": "https://vod-stream.nhk.jp/radioondemand/r/983PKQPYN7/s/stream_983PKQPYN7_a3298cde273d3560d95ea46c900e0609/index.m3u8",
         "audio_path": "/home/runner/work/RadioPro/RadioPro/content/mainichi_chuugokugo/2025/03/19.mp3",
         "download_date": "2025-03-19-12-36-36"
+    },
+    "2025-03-20": {
+        "title": "まいにち中国語　口と耳で“イメトレ”！（１１４）",
+        "sub_title": "（１１４）もし雨が降ったら、わたしは行きません。（さまざまな複文）",
+        "onair_date": "2025年3月20日(木)午前8:15放送",
+        "closed_date": "2025年3月27日(木)午前8:30配信終了",
+        "streaming_url": "https://vod-stream.nhk.jp/radioondemand/r/983PKQPYN7/s/stream_983PKQPYN7_f918c1d3799ac746c908408ce6fc0e9d/index.m3u8",
+        "audio_path": "/home/runner/work/RadioPro/RadioPro/content/mainichi_chuugokugo/2025/03/20.mp3",
+        "download_date": "2025-03-20-12-35-30"
     }
 }
