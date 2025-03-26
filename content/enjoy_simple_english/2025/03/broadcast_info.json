@@ -151,5 +151,14 @@
         "streaming_url": "https://vod-stream.nhk.jp/radioondemand/r/BR8Z3NX7XM/s/stream_BR8Z3NX7XM_21d9aebdcfb9024b2d312af65b520183/index.m3u8",
         "audio_path": "/home/runner/work/RadioPro/RadioPro/content/enjoy_simple_english/2025/03/25.mp3",
         "download_date": "2025-03-25-12-39-01"
+    },
+    "2025-03-26": {
+        "title": "エンジョイ・シンプル・イングリッシュ「携帯型音楽プレーヤー」",
+        "sub_title": "【司会】森崎ウィン",
+        "onair_date": "2025年3月26日(水)午前9:10放送",
+        "closed_date": "2025年4月2日(水)午前9:15配信終了",
+        "streaming_url": "https://vod-stream.nhk.jp/radioondemand/r/BR8Z3NX7XM/s/stream_BR8Z3NX7XM_194e24c0727656daf39d5213089c9302/index.m3u8",
+        "audio_path": "/home/runner/work/RadioPro/RadioPro/content/enjoy_simple_english/2025/03/26.mp3",
+        "download_date": "2025-03-26-12-37-37"
     }
 }
