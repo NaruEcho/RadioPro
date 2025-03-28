@@ -169,5 +169,14 @@
         "streaming_url": "https://vod-stream.nhk.jp/radioondemand/r/983PKQPYN7/s/stream_983PKQPYN7_3b85f54ff909c8cb60a48d5dead8e1d6/index.m3u8",
         "audio_path": "/home/runner/work/RadioPro/RadioPro/content/mainichi_chuugokugo/2025/03/27.mp3",
         "download_date": "2025-03-27-12-40-53"
+    },
+    "2025-03-28": {
+        "title": "まいにち中国語　口と耳で“イメトレ”！（１２０）",
+        "sub_title": "（１２０）場面でフレーズ（趣味・交流編）",
+        "onair_date": "2025年3月28日(金)午前8:15放送",
+        "closed_date": "2025年4月4日(金)午前8:30配信終了",
+        "streaming_url": "https://vod-stream.nhk.jp/radioondemand/r/983PKQPYN7/s/stream_983PKQPYN7_5b07b8764133118e158a021773c13beb/index.m3u8",
+        "audio_path": "/home/runner/work/RadioPro/RadioPro/content/mainichi_chuugokugo/2025/03/28.mp3",
+        "download_date": "2025-03-28-12-39-38"
     }
 }

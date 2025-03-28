@@ -169,5 +169,14 @@
         "streaming_url": "https://vod-stream.nhk.jp/radioondemand/r/77RQWQX1L6/s/stream_77RQWQX1L6_213b6fde5a6a3b8d6dad7cb1c80b5228/index.m3u8",
         "audio_path": "/home/runner/work/RadioPro/RadioPro/content/news_de_manabu_gendai_eigo/2025/03/27.mp3",
         "download_date": "2025-03-27-12-40-51"
+    },
+    "2025-03-28": {
+        "title": "ニュースで学ぶ「現代英語」　横浜市　“日本新三大夜景都市”に",
+        "sub_title": "ニュースや研究の現場で活躍している専門家が、「実際に現場で使っている英語」をニュースの背景とともに解説します。ＭＣ：トラウデン直美　解説：大島　希巳江",
+        "onair_date": "2025年3月28日(金)午前9:30放送",
+        "closed_date": "2025年4月4日(金)午前9:45配信終了",
+        "streaming_url": "https://vod-stream.nhk.jp/radioondemand/r/77RQWQX1L6/s/stream_77RQWQX1L6_8122eb1576cc07805301e8bb92492424/index.m3u8",
+        "audio_path": "/home/runner/work/RadioPro/RadioPro/content/news_de_manabu_gendai_eigo/2025/03/28.mp3",
+        "download_date": "2025-03-28-12-39-37"
     }
 }
