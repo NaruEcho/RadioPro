@@ -178,5 +178,14 @@
         "streaming_url": "https://vod-stream.nhk.jp/radioondemand/r/XQ487ZM61K/s/stream_XQ487ZM61K_6ccb966bee75ee58b66e659beecf2df7/index.m3u8",
         "audio_path": "/home/runner/work/RadioPro/RadioPro/content/mainichi_french_go_shokyuu_en_ouyou/2025/03/28.mp3",
         "download_date": "2025-03-28-12-39-40"
+    },
+    "2025-03-31": {
+        "title": "まいにちフランス語　初級編　アユミと学ぶ初級文法（１）",
+        "sub_title": "　",
+        "onair_date": "2025年3月31日(月)午前7:30放送",
+        "closed_date": "2025年4月7日(月)午前7:45配信終了",
+        "streaming_url": "https://vod-stream.nhk.jp/radioondemand/r/XQ487ZM61K/s/stream_XQ487ZM61K_a2449acea518192e476d0e9ea26ccc2b/index.m3u8",
+        "audio_path": "/home/runner/work/RadioPro/RadioPro/content/mainichi_french_go_shokyuu_en_ouyou/2025/03/31.mp3",
+        "download_date": "2025-03-31-12-43-32"
     }
 }

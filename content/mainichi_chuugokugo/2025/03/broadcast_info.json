@@ -178,5 +178,14 @@
         "streaming_url": "https://vod-stream.nhk.jp/radioondemand/r/983PKQPYN7/s/stream_983PKQPYN7_5b07b8764133118e158a021773c13beb/index.m3u8",
         "audio_path": "/home/runner/work/RadioPro/RadioPro/content/mainichi_chuugokugo/2025/03/28.mp3",
         "download_date": "2025-03-28-12-39-38"
+    },
+    "2025-03-31": {
+        "title": "まいにち中国語　言いたいことを「完コピ」しよう！（１）こんにちは！",
+        "sub_title": "第１課　こんにちは！",
+        "onair_date": "2025年3月31日(月)午前8:15放送",
+        "closed_date": "2025年4月7日(月)午前8:30配信終了",
+        "streaming_url": "https://vod-stream.nhk.jp/radioondemand/r/983PKQPYN7/s/stream_983PKQPYN7_b4edf3ba56b435c7847683bcfe95268a/index.m3u8",
+        "audio_path": "/home/runner/work/RadioPro/RadioPro/content/mainichi_chuugokugo/2025/03/31.mp3",
+        "download_date": "2025-03-31-12-43-29"
     }
 }

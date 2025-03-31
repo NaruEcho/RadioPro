@@ -178,5 +178,14 @@
         "streaming_url": "https://vod-stream.nhk.jp/radioondemand/r/BR8Z3NX7XM/s/stream_BR8Z3NX7XM_c87c1fac98afc5d0952b47b8c74806ae/index.m3u8",
         "audio_path": "/home/runner/work/RadioPro/RadioPro/content/enjoy_simple_english/2025/03/28.mp3",
         "download_date": "2025-03-28-12-39-35"
+    },
+    "2025-03-31": {
+        "title": "エンジョイ・シンプル・イングリッシュ「フランス　巨大オムレツ祭り」",
+        "sub_title": "【司会】森崎ウィン",
+        "onair_date": "2025年3月31日(月)午前6:00放送",
+        "closed_date": "2025年4月7日(月)午前6:05配信終了",
+        "streaming_url": "https://vod-stream.nhk.jp/radioondemand/r/BR8Z3NX7XM/s/stream_BR8Z3NX7XM_923eb7420d4c986fe294f9b61d36fce0/index.m3u8",
+        "audio_path": "/home/runner/work/RadioPro/RadioPro/content/enjoy_simple_english/2025/03/31.mp3",
+        "download_date": "2025-03-31-12-43-24"
     }
 }
