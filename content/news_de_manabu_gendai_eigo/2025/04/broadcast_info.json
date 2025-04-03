@@ -16,5 +16,14 @@
         "streaming_url": "https://vod-stream.nhk.jp/radioondemand/r/77RQWQX1L6/s/stream_77RQWQX1L6_8f0bdc4b1964377c0f4d837597444559/index.m3u8",
         "audio_path": "/home/runner/work/RadioPro/RadioPro/content/news_de_manabu_gendai_eigo/2025/04/02.mp3",
         "download_date": "2025-04-02-12-42-19"
+    },
+    "2025-04-03": {
+        "title": "ニュースで学ぶ「現代英語」　飲食のインバウンド消費を３倍に",
+        "sub_title": "ニュースや研究の現場で活躍している専門家が、「実際に現場で使っている英語」をニュースの背景とともに解説します。ＭＣ：トラウデン直美　講師：大門小百合",
+        "onair_date": "2025年4月3日(木)午前9:30放送",
+        "closed_date": "2025年4月10日(木)午前9:45配信終了",
+        "streaming_url": "https://vod-stream.nhk.jp/radioondemand/r/77RQWQX1L6/s/stream_77RQWQX1L6_1014f45e50d6a1f38ba358839fd3696e/index.m3u8",
+        "audio_path": "/home/runner/work/RadioPro/RadioPro/content/news_de_manabu_gendai_eigo/2025/04/03.mp3",
+        "download_date": "2025-04-03-12-42-09"
     }
 }
