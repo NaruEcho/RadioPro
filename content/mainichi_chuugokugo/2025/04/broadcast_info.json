@@ -25,5 +25,14 @@
         "streaming_url": "https://vod-stream.nhk.jp/radioondemand/r/983PKQPYN7/s/stream_983PKQPYN7_217a584dda8b61a17fa8e2de2366f142/index.m3u8",
         "audio_path": "/home/runner/work/RadioPro/RadioPro/content/mainichi_chuugokugo/2025/04/03.mp3",
         "download_date": "2025-04-03-12-42-10"
+    },
+    "2025-04-04": {
+        "title": "まいにち中国語　言いたいことを「完コピ」しよう！　４月第１週の復習",
+        "sub_title": "第１週の復習（第１課～第４課）",
+        "onair_date": "2025年4月4日(金)午前8:15放送",
+        "closed_date": "2025年4月11日(金)午前8:30配信終了",
+        "streaming_url": "https://vod-stream.nhk.jp/radioondemand/r/983PKQPYN7/s/stream_983PKQPYN7_86b6d7690f1161d82996a6a03dba3999/index.m3u8",
+        "audio_path": "/home/runner/work/RadioPro/RadioPro/content/mainichi_chuugokugo/2025/04/04.mp3",
+        "download_date": "2025-04-04-12-41-29"
     }
 }
