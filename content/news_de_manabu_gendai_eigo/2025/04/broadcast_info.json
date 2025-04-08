@@ -43,5 +43,14 @@
         "streaming_url": "https://vod-stream.nhk.jp/radioondemand/r/77RQWQX1L6/s/stream_77RQWQX1L6_6fc1491b0284a442adaecf20707e031f/index.m3u8",
         "audio_path": "/home/runner/work/RadioPro/RadioPro/content/news_de_manabu_gendai_eigo/2025/04/07.mp3",
         "download_date": "2025-04-07-12-42-29"
+    },
+    "2025-04-08": {
+        "title": "ニュースで学ぶ「現代英語」　ＡＩが９５％書いた小説　雑誌に掲載",
+        "sub_title": "「現代英語」とは、世界で実際に使われている英語です。最新の英語ニュースを通して、生きた英語を身につけます。講師：伊藤サム　パートナー：クリスティ・ウェスト",
+        "onair_date": "2025年4月8日(火)午前9:30放送",
+        "closed_date": "2025年4月15日(火)午前9:45配信終了",
+        "streaming_url": "https://vod-stream.nhk.jp/radioondemand/r/77RQWQX1L6/s/stream_77RQWQX1L6_f3aa2e3a5f1e924d39a6a61ac0b11d17/index.m3u8",
+        "audio_path": "/home/runner/work/RadioPro/RadioPro/content/news_de_manabu_gendai_eigo/2025/04/08.mp3",
+        "download_date": "2025-04-08-12-40-36"
     }
 }

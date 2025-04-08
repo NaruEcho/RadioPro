@@ -43,5 +43,14 @@
         "streaming_url": "https://vod-stream.nhk.jp/radioondemand/r/983PKQPYN7/s/stream_983PKQPYN7_d4e968b8a21531115e4ffef1ef5eac90/index.m3u8",
         "audio_path": "/home/runner/work/RadioPro/RadioPro/content/mainichi_chuugokugo/2025/04/07.mp3",
         "download_date": "2025-04-07-12-42-30"
+    },
+    "2025-04-08": {
+        "title": "まいにち中国語　言いたいことを「完コピ」しよう！（６）わたしは中村と言います。",
+        "sub_title": "第６課　わたしは中村と言います。",
+        "onair_date": "2025年4月8日(火)午前8:15放送",
+        "closed_date": "2025年4月15日(火)午前8:30配信終了",
+        "streaming_url": "https://vod-stream.nhk.jp/radioondemand/r/983PKQPYN7/s/stream_983PKQPYN7_ed5a7fac21e987985ca9b7a57ab43b40/index.m3u8",
+        "audio_path": "/home/runner/work/RadioPro/RadioPro/content/mainichi_chuugokugo/2025/04/08.mp3",
+        "download_date": "2025-04-08-12-40-37"
     }
 }
