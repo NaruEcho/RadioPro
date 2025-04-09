@@ -52,5 +52,14 @@
         "streaming_url": "https://vod-stream.nhk.jp/radioondemand/r/983PKQPYN7/s/stream_983PKQPYN7_ed5a7fac21e987985ca9b7a57ab43b40/index.m3u8",
         "audio_path": "/home/runner/work/RadioPro/RadioPro/content/mainichi_chuugokugo/2025/04/08.mp3",
         "download_date": "2025-04-08-12-40-37"
+    },
+    "2025-04-09": {
+        "title": "まいにち中国語　言いたいことを「完コピ」しよう！（７）あの、すみません",
+        "sub_title": "第７課　あの、すみません",
+        "onair_date": "2025年4月9日(水)午前8:15放送",
+        "closed_date": "2025年4月16日(水)午前8:30配信終了",
+        "streaming_url": "https://vod-stream.nhk.jp/radioondemand/r/983PKQPYN7/s/stream_983PKQPYN7_5d85052f2d8293f6e842b4e2d066ac0f/index.m3u8",
+        "audio_path": "/home/runner/work/RadioPro/RadioPro/content/mainichi_chuugokugo/2025/04/09.mp3",
+        "download_date": "2025-04-09-12-41-18"
     }
 }
