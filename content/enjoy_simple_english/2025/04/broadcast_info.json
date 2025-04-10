@@ -61,5 +61,14 @@
         "streaming_url": "https://vod-stream.nhk.jp/radioondemand/r/BR8Z3NX7XM/s/stream_BR8Z3NX7XM_590e3de8e22854cfd7ddb0515bb18c4b/index.m3u8",
         "audio_path": "/home/runner/work/RadioPro/RadioPro/content/enjoy_simple_english/2025/04/09.mp3",
         "download_date": "2025-04-09-12-41-14"
+    },
+    "2025-04-10": {
+        "title": "エンジョイ・シンプル・イングリッシュ「どうしたら勉強が長続きする？」",
+        "sub_title": "【司会】森崎ウィン",
+        "onair_date": "2025年4月10日(木)午前6:00放送",
+        "closed_date": "2025年4月17日(木)午前6:05配信終了",
+        "streaming_url": "https://vod-stream.nhk.jp/radioondemand/r/BR8Z3NX7XM/s/stream_BR8Z3NX7XM_0391964cdb615671d3ce6489cf2722b7/index.m3u8",
+        "audio_path": "/home/runner/work/RadioPro/RadioPro/content/enjoy_simple_english/2025/04/10.mp3",
+        "download_date": "2025-04-10-12-42-23"
     }
 }

@@ -61,5 +61,14 @@
         "streaming_url": "https://vod-stream.nhk.jp/radioondemand/r/77RQWQX1L6/s/stream_77RQWQX1L6_fa358ae03c1bf4a479cb5fb779343760/index.m3u8",
         "audio_path": "/home/runner/work/RadioPro/RadioPro/content/news_de_manabu_gendai_eigo/2025/04/09.mp3",
         "download_date": "2025-04-09-12-41-16"
+    },
+    "2025-04-10": {
+        "title": "ニュースで学ぶ「現代英語」　福井県立大に“恐竜学部”開設へ",
+        "sub_title": "ニュースや研究の現場で活躍している専門家が、「実際に現場で使っている英語」をニュースの背景とともに解説します。ＭＣ：トラウデン直美　講師：前嶋和弘",
+        "onair_date": "2025年4月10日(木)午前9:30放送",
+        "closed_date": "2025年4月17日(木)午前9:45配信終了",
+        "streaming_url": "https://vod-stream.nhk.jp/radioondemand/r/77RQWQX1L6/s/stream_77RQWQX1L6_a16f84e113d0403ccf1a93d5e10ccf7c/index.m3u8",
+        "audio_path": "/home/runner/work/RadioPro/RadioPro/content/news_de_manabu_gendai_eigo/2025/04/10.mp3",
+        "download_date": "2025-04-10-12-42-26"
     }
 }
