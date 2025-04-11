@@ -70,5 +70,14 @@
         "streaming_url": "https://vod-stream.nhk.jp/radioondemand/r/N8PZRZ9WQY/s/stream_N8PZRZ9WQY_01b7ad368073614c41d4e99e6434d0ab/index.m3u8",
         "audio_path": "/home/runner/work/RadioPro/RadioPro/content/mainichi_doitsugo_shokyuu_en_ouyou/2025/04/10.mp3",
         "download_date": "2025-04-10-12-42-28"
+    },
+    "2025-04-11": {
+        "title": "まいにちドイツ語　応用編　ベルリンからのドイツ語シャワー（４）",
+        "sub_title": "　",
+        "onair_date": "2025年4月11日(金)午前7:00放送",
+        "closed_date": "2025年4月18日(金)午前7:15配信終了",
+        "streaming_url": "https://vod-stream.nhk.jp/radioondemand/r/N8PZRZ9WQY/s/stream_N8PZRZ9WQY_3cede1f5dee1045230fa8f84ef12df5f/index.m3u8",
+        "audio_path": "/home/runner/work/RadioPro/RadioPro/content/mainichi_doitsugo_shokyuu_en_ouyou/2025/04/11.mp3",
+        "download_date": "2025-04-11-12-41-44"
     }
 }
