@@ -88,5 +88,14 @@
         "streaming_url": "https://vod-stream.nhk.jp/radioondemand/r/983PKQPYN7/s/stream_983PKQPYN7_d6e53c7799ac79df27b1fd6e28f9a7d7/index.m3u8",
         "audio_path": "/home/runner/work/RadioPro/RadioPro/content/mainichi_chuugokugo/2025/04/14.mp3",
         "download_date": "2025-04-14-12-46-52"
+    },
+    "2025-04-15": {
+        "title": "まいにち中国語　言いたいことを「完コピ」しよう！（１０）家はどちらですか。",
+        "sub_title": "第１０課　家はどちらですか。",
+        "onair_date": "2025年4月15日(火)午前8:15放送",
+        "closed_date": "2025年4月22日(火)午前8:30配信終了",
+        "streaming_url": "https://vod-stream.nhk.jp/radioondemand/r/983PKQPYN7/s/stream_983PKQPYN7_b44d2054d4fe6562f5fb235c568e08d0/index.m3u8",
+        "audio_path": "/home/runner/work/RadioPro/RadioPro/content/mainichi_chuugokugo/2025/04/15.mp3",
+        "download_date": "2025-04-15-12-42-08"
     }
 }
