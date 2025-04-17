@@ -106,5 +106,14 @@
         "streaming_url": "https://vod-stream.nhk.jp/radioondemand/r/983PKQPYN7/s/stream_983PKQPYN7_cb39d7b16d6358f8f963dac7b9338627/index.m3u8",
         "audio_path": "/home/runner/work/RadioPro/RadioPro/content/mainichi_chuugokugo/2025/04/16.mp3",
         "download_date": "2025-04-16-12-42-28"
+    },
+    "2025-04-17": {
+        "title": "まいにち中国語　言いたいことを「完コピ」しよう！（１２）もう一度言ってください。",
+        "sub_title": "第１２課　もう一度言ってください。",
+        "onair_date": "2025年4月17日(木)午前8:15放送",
+        "closed_date": "2025年4月24日(木)午前8:30配信終了",
+        "streaming_url": "https://vod-stream.nhk.jp/radioondemand/r/983PKQPYN7/s/stream_983PKQPYN7_9eeb2225ad508a6d25657d44e2dff76f/index.m3u8",
+        "audio_path": "/home/runner/work/RadioPro/RadioPro/content/mainichi_chuugokugo/2025/04/17.mp3",
+        "download_date": "2025-04-17-12-41-24"
     }
 }
