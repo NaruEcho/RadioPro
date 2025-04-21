@@ -124,5 +124,14 @@
         "streaming_url": "https://vod-stream.nhk.jp/radioondemand/r/BR8Z3NX7XM/s/stream_BR8Z3NX7XM_836c1bc1687bf48aafbe95c22883fc14/index.m3u8",
         "audio_path": "/home/runner/work/RadioPro/RadioPro/content/enjoy_simple_english/2025/04/18.mp3",
         "download_date": "2025-04-18-12-41-46"
+    },
+    "2025-04-21": {
+        "title": "エンジョイ・シンプル・イングリッシュ",
+        "sub_title": "「アイルランド　セント・パトリックス・フェスティバル」　【司会】森崎ウィン",
+        "onair_date": "2025年4月21日(月)午前6:00放送",
+        "closed_date": "2025年4月28日(月)午前6:05配信終了",
+        "streaming_url": "https://vod-stream.nhk.jp/radioondemand/r/BR8Z3NX7XM/s/stream_BR8Z3NX7XM_293d999e7eb6e6dd8d13c3d295407950/index.m3u8",
+        "audio_path": "/home/runner/work/RadioPro/RadioPro/content/enjoy_simple_english/2025/04/21.mp3",
+        "download_date": "2025-04-21-12-47-50"
     }
 }
