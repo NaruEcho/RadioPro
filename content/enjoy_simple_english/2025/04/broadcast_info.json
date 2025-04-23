@@ -142,5 +142,14 @@
         "streaming_url": "https://vod-stream.nhk.jp/radioondemand/r/BR8Z3NX7XM/s/stream_BR8Z3NX7XM_75e2d4d7c638d273fd4dde5a912834bd/index.m3u8",
         "audio_path": "/home/runner/work/RadioPro/RadioPro/content/enjoy_simple_english/2025/04/22.mp3",
         "download_date": "2025-04-22-12-41-35"
+    },
+    "2025-04-23": {
+        "title": "エンジョイ・シンプル・イングリッシュ「日本がポーランドの孤児を救済」",
+        "sub_title": "【司会】森崎ウィン",
+        "onair_date": "2025年4月23日(水)午前6:00放送",
+        "closed_date": "2025年4月30日(水)午前6:05配信終了",
+        "streaming_url": "https://vod-stream.nhk.jp/radioondemand/r/BR8Z3NX7XM/s/stream_BR8Z3NX7XM_7fe5a9c6e0409e0c180b88a03bc6bf2f/index.m3u8",
+        "audio_path": "/home/runner/work/RadioPro/RadioPro/content/enjoy_simple_english/2025/04/23.mp3",
+        "download_date": "2025-04-23-12-41-33"
     }
 }
