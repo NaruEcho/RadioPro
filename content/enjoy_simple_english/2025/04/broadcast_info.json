@@ -160,5 +160,14 @@
         "streaming_url": "https://vod-stream.nhk.jp/radioondemand/r/BR8Z3NX7XM/s/stream_BR8Z3NX7XM_13bb518fb567ce3192c5d1bcda9f3e72/index.m3u8",
         "audio_path": "/home/runner/work/RadioPro/RadioPro/content/enjoy_simple_english/2025/04/24.mp3",
         "download_date": "2025-04-24-12-51-08"
+    },
+    "2025-04-25": {
+        "title": "エンジョイ・シンプル・イングリッシュ「耳なし芳一のはなし」",
+        "sub_title": "【司会】森崎ウィン",
+        "onair_date": "2025年4月25日(金)午前6:00放送",
+        "closed_date": "2025年5月2日(金)午前6:05配信終了",
+        "streaming_url": "https://vod-stream.nhk.jp/radioondemand/r/BR8Z3NX7XM/s/stream_BR8Z3NX7XM_aa6beedcce346f2b0d4e9d001ce32e46/index.m3u8",
+        "audio_path": "/home/runner/work/RadioPro/RadioPro/content/enjoy_simple_english/2025/04/25.mp3",
+        "download_date": "2025-04-25-12-43-37"
     }
 }

@@ -160,5 +160,14 @@
         "streaming_url": "https://vod-stream.nhk.jp/radioondemand/r/77RQWQX1L6/s/stream_77RQWQX1L6_886d06bfd2470f8cc7591c295f6c3bc1/index.m3u8",
         "audio_path": "/home/runner/work/RadioPro/RadioPro/content/news_de_manabu_gendai_eigo/2025/04/24.mp3",
         "download_date": "2025-04-24-12-51-10"
+    },
+    "2025-04-25": {
+        "title": "ニュースで学ぶ「現代英語」　今週のスピーキング練習",
+        "sub_title": "ニュースや研究の現場で活躍している専門家が、スピーキングやディスカッションで使える語句・フレーズを、解説します。ＭＣ：トラウデン直美　講師：前嶋和弘",
+        "onair_date": "2025年4月25日(金)午前9:30放送",
+        "closed_date": "2025年5月2日(金)午前9:45配信終了",
+        "streaming_url": "https://vod-stream.nhk.jp/radioondemand/r/77RQWQX1L6/s/stream_77RQWQX1L6_ffc10fe1402ed0b73860a8684c79243d/index.m3u8",
+        "audio_path": "/home/runner/work/RadioPro/RadioPro/content/news_de_manabu_gendai_eigo/2025/04/25.mp3",
+        "download_date": "2025-04-25-12-43-39"
     }
 }
