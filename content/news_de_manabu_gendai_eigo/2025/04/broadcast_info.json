@@ -169,5 +169,14 @@
         "streaming_url": "https://vod-stream.nhk.jp/radioondemand/r/77RQWQX1L6/s/stream_77RQWQX1L6_ffc10fe1402ed0b73860a8684c79243d/index.m3u8",
         "audio_path": "/home/runner/work/RadioPro/RadioPro/content/news_de_manabu_gendai_eigo/2025/04/25.mp3",
         "download_date": "2025-04-25-12-43-39"
+    },
+    "2025-04-28": {
+        "title": "ニュースで学ぶ「現代英語」　大型連休中の旅行者　減少の見通し",
+        "sub_title": "「現代英語」とは、世界で実際に使われている英語です。最新の英語ニュースを通して、生きた英語を身につけます。講師：伊藤サム　パートナー：クリスティ・ウェスト",
+        "onair_date": "2025年4月28日(月)午前9:30放送",
+        "closed_date": "2025年5月5日(月)午前9:45配信終了",
+        "streaming_url": "https://vod-stream.nhk.jp/radioondemand/r/77RQWQX1L6/s/stream_77RQWQX1L6_165e1a59b4a9595b071cb8d72261839b/index.m3u8",
+        "audio_path": "/home/runner/work/RadioPro/RadioPro/content/news_de_manabu_gendai_eigo/2025/04/28.mp3",
+        "download_date": "2025-04-28-12-47-04"
     }
 }
