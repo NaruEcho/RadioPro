@@ -187,5 +187,14 @@
         "streaming_url": "https://vod-stream.nhk.jp/radioondemand/r/N8PZRZ9WQY/s/stream_N8PZRZ9WQY_5645251f858cf14ff31a921a0a01cb63/index.m3u8",
         "audio_path": "/home/runner/work/RadioPro/RadioPro/content/mainichi_doitsugo_shokyuu_en_ouyou/2025/04/29.mp3",
         "download_date": "2025-04-29-12-43-08"
+    },
+    "2025-04-30": {
+        "title": "まいにちドイツ語　初級編　シチュエーションで学ぶドイツ語（４）",
+        "sub_title": "　",
+        "onair_date": "2025年4月30日(水)午前7:00放送",
+        "closed_date": "2025年5月7日(水)午前7:15配信終了",
+        "streaming_url": "https://vod-stream.nhk.jp/radioondemand/r/N8PZRZ9WQY/s/stream_N8PZRZ9WQY_4e128d8430c5fa524ae36e72b87aa36f/index.m3u8",
+        "audio_path": "/home/runner/work/RadioPro/RadioPro/content/mainichi_doitsugo_shokyuu_en_ouyou/2025/04/30.mp3",
+        "download_date": "2025-04-30-12-45-04"
     }
 }
