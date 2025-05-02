@@ -7,5 +7,14 @@
         "streaming_url": "https://vod-stream.nhk.jp/radioondemand/r/77RQWQX1L6/s/stream_77RQWQX1L6_218f76e358e62af2ca5089bbe1f20c14/index.m3u8",
         "audio_path": "/home/runner/work/RadioPro/RadioPro/content/news_de_manabu_gendai_eigo/2025/05/01.mp3",
         "download_date": "2025-05-01-12-51-37"
+    },
+    "2025-05-02": {
+        "title": "ニュースで学ぶ「現代英語」　今週のスピーキング練習",
+        "sub_title": "ニュースや研究の現場で活躍している専門家が、スピーキングやディスカッションで使える語句・フレーズを、解説します。ＭＣ：トラウデン直美　講師：大島希巳江",
+        "onair_date": "2025年5月2日(金)午前9:30放送",
+        "closed_date": "2025年5月9日(金)午前9:45配信終了",
+        "streaming_url": "https://vod-stream.nhk.jp/radioondemand/r/77RQWQX1L6/s/stream_77RQWQX1L6_05543142d06f3475d28d1018897f0db1/index.m3u8",
+        "audio_path": "/home/runner/work/RadioPro/RadioPro/content/news_de_manabu_gendai_eigo/2025/05/02.mp3",
+        "download_date": "2025-05-02-12-45-43"
     }
 }
