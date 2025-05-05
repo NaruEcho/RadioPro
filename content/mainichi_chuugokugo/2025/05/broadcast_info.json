@@ -16,5 +16,14 @@
         "streaming_url": "https://vod-stream.nhk.jp/radioondemand/r/983PKQPYN7/s/stream_983PKQPYN7_ff7b5387264a3099105ba3e854ea3246/index.m3u8",
         "audio_path": "/home/runner/work/RadioPro/RadioPro/content/mainichi_chuugokugo/2025/05/02.mp3",
         "download_date": "2025-05-02-12-45-45"
+    },
+    "2025-05-05": {
+        "title": "まいにち中国語　言いたいことを「完コピ」しよう！（１３）こちらはわたしの妻です。",
+        "sub_title": "第１３課　こちらはわたしの妻です。",
+        "onair_date": "2025年5月5日(月)午前8:15放送",
+        "closed_date": "2025年5月12日(月)午前8:30配信終了",
+        "streaming_url": "https://vod-stream.nhk.jp/radioondemand/r/983PKQPYN7/s/stream_983PKQPYN7_7a19e44eabc0c0f4da94dda8560ec320/index.m3u8",
+        "audio_path": "/home/runner/work/RadioPro/RadioPro/content/mainichi_chuugokugo/2025/05/05.mp3",
+        "download_date": "2025-05-05-12-48-45"
     }
 }

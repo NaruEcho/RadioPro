@@ -16,5 +16,14 @@
         "streaming_url": "https://vod-stream.nhk.jp/radioondemand/r/77RQWQX1L6/s/stream_77RQWQX1L6_05543142d06f3475d28d1018897f0db1/index.m3u8",
         "audio_path": "/home/runner/work/RadioPro/RadioPro/content/news_de_manabu_gendai_eigo/2025/05/02.mp3",
         "download_date": "2025-05-02-12-45-43"
+    },
+    "2025-05-05": {
+        "title": "ニュースで学ぶ「現代英語」　富士山　“実は５センチ高かった”",
+        "sub_title": "「現代英語」とは、世界で実際に使われている英語です。最新の英語ニュースを通して、生きた英語を身につけます。講師：伊藤サム　パートナー：クリスティ・ウェスト",
+        "onair_date": "2025年5月5日(月)午前9:30放送",
+        "closed_date": "2025年5月12日(月)午前9:45配信終了",
+        "streaming_url": "https://vod-stream.nhk.jp/radioondemand/r/77RQWQX1L6/s/stream_77RQWQX1L6_dbc4b2a79da396c58fc87bbc52822b40/index.m3u8",
+        "audio_path": "/home/runner/work/RadioPro/RadioPro/content/news_de_manabu_gendai_eigo/2025/05/05.mp3",
+        "download_date": "2025-05-05-12-48-44"
     }
 }
