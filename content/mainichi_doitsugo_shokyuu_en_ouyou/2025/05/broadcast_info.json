@@ -25,5 +25,14 @@
         "streaming_url": "https://vod-stream.nhk.jp/radioondemand/r/N8PZRZ9WQY/s/stream_N8PZRZ9WQY_f03c91baa3dcea188dc954a62d7d3ece/index.m3u8",
         "audio_path": "/home/runner/work/RadioPro/RadioPro/content/mainichi_doitsugo_shokyuu_en_ouyou/2025/05/05.mp3",
         "download_date": "2025-05-05-12-48-46"
+    },
+    "2025-05-06": {
+        "title": "まいにちドイツ語　初級編　話したくなるネタドイツ（１０）",
+        "sub_title": "　",
+        "onair_date": "2025年5月6日(火)午前7:00放送",
+        "closed_date": "2025年5月13日(火)午前7:15配信終了",
+        "streaming_url": "https://vod-stream.nhk.jp/radioondemand/r/N8PZRZ9WQY/s/stream_N8PZRZ9WQY_f893800fdfc11f1b650719cb9df157d7/index.m3u8",
+        "audio_path": "/home/runner/work/RadioPro/RadioPro/content/mainichi_doitsugo_shokyuu_en_ouyou/2025/05/06.mp3",
+        "download_date": "2025-05-06-12-45-24"
     }
 }

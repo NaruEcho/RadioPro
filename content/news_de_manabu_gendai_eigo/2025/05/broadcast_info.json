@@ -25,5 +25,14 @@
         "streaming_url": "https://vod-stream.nhk.jp/radioondemand/r/77RQWQX1L6/s/stream_77RQWQX1L6_dbc4b2a79da396c58fc87bbc52822b40/index.m3u8",
         "audio_path": "/home/runner/work/RadioPro/RadioPro/content/news_de_manabu_gendai_eigo/2025/05/05.mp3",
         "download_date": "2025-05-05-12-48-44"
+    },
+    "2025-05-06": {
+        "title": "ニュースで学ぶ「現代英語」　オンラインカジノ　初の実態調査",
+        "sub_title": "「現代英語」とは、世界で実際に使われている英語です。最新の英語ニュースを通して、生きた英語を身につけます。講師：伊藤サム　パートナー：クリスティ・ウェスト",
+        "onair_date": "2025年5月6日(火)午前9:30放送",
+        "closed_date": "2025年5月13日(火)午前9:45配信終了",
+        "streaming_url": "https://vod-stream.nhk.jp/radioondemand/r/77RQWQX1L6/s/stream_77RQWQX1L6_d0d625a1d842fbbfcdbdde97a22e76c0/index.m3u8",
+        "audio_path": "/home/runner/work/RadioPro/RadioPro/content/news_de_manabu_gendai_eigo/2025/05/06.mp3",
+        "download_date": "2025-05-06-12-45-21"
     }
 }
