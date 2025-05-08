@@ -43,5 +43,14 @@
         "streaming_url": "https://vod-stream.nhk.jp/radioondemand/r/983PKQPYN7/s/stream_983PKQPYN7_0a5fe5abf0169d8b12941f480a24ad39/index.m3u8",
         "audio_path": "/home/runner/work/RadioPro/RadioPro/content/mainichi_chuugokugo/2025/05/07.mp3",
         "download_date": "2025-05-07-12-49-11"
+    },
+    "2025-05-08": {
+        "title": "まいにち中国語　言いたいことを「完コピ」しよう！（１６）彼女は３歳です。",
+        "sub_title": "第１６課　彼女は３歳です。",
+        "onair_date": "2025年5月8日(木)午前8:15放送",
+        "closed_date": "2025年5月15日(木)午前8:30配信終了",
+        "streaming_url": "https://vod-stream.nhk.jp/radioondemand/r/983PKQPYN7/s/stream_983PKQPYN7_8994d97dfd8ec1c035291293cbb0cc8f/index.m3u8",
+        "audio_path": "/home/runner/work/RadioPro/RadioPro/content/mainichi_chuugokugo/2025/05/08.mp3",
+        "download_date": "2025-05-08-12-48-34"
     }
 }
